@@ -1,0 +1,2147 @@
+facilities,rating,rating_descriptions,review_counts,location,Price
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,16.0,Wanderland,17000
+['restaurant'],,,,Andeman,14000
+"['internet', 'bar', 'restaurant']",8.4,Excellent,1.0,Andeman,14000
+['pool'],8.8,Excellent,1.0,Ubisville,35000
+"['bar', 'restaurant']",6.0,Very Good,3.0,Wanderland,8000
+"['intrnet', 'bar', 'restaurant']",,,,Stokol,10000
+"['internet', 'restaurant', 'swimmingpools']",6.4,Very Good,2.0,Machlessvile,6000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Uberlandia,30500
+"['intrnet', 'bar', 'swimmingpools']",8.8,Excellent,36.0,Andeman,25000
+"['intrnet', 'restaurant']",5.7,Good,6.0,Stokol,16500
+"['intrnet', 'bar', 'restaurant']",7.9,Very Good,10.0,Andeman,59000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",9.3,Excellent,3.0,Machlessvile,88600
+['bar'],,,,Andeman,3000
+"['internet', 'bar', 'swimmingpools']",8.8,Excellent,36.0,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Willsmian,20000
+[],5.4,Good,2.0,Uberlandia,3000
+[],5.6,Good,3.0,Stokol,14000
+"['internet', 'bar', 'restaurant']",2.5,Fair,4.0,Wanderland,20000
+"['bar', 'restaurant']",,,,Wanderland,2500
+[],,,,Hallerson,2200
+"['bar', 'pool', 'gym']",9.5,Excellent,4.0,Machlessvile,14997
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,6.0,Ubisville,44203
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Andeman,30500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.6,Excellent,6.0,Uberlandia,23000
+['restaurant'],7.2,Very Good,12.0,Uberlandia,9000
+"['intrnet', 'bar', 'restaurant', 'pool']",8.7,Excellent,15.0,Wanderland,35000
+[],,,,Andeman,3700
+"['pool', 'gym']",,,,Uberlandia,16100
+"['bar', 'restaurant']",8.9,Excellent,5.0,Hallerson,17000
+"['internet', 'bar', 'restaurant']",2.5,Fair,4.0,Uberlandia,20000
+"['bar', 'restaurant']",7.6,Very Good,3.0,Wanderland,5000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,4.0,Stokol,18000
+"['internet', 'bar']",7.4,Very Good,40.0,Wanderland,13000
+"['internet', 'restaurant']",8.0,Excellent,7.0,Uberlandia,44000
+"['bar', 'restaurant']",,,,Hallerson,7500
+['restaurant'],7.2,Very Good,12.0,Machlessvile,9000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Wanderland,20000
+"['internet', 'bar', 'restaurant']",,,,Wanderland,10000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",,,,Stokol,30000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Uberlandia,10000
+"['bar', 'restaurant']",6.8,Very Good,3.0,Stokol,23000
+"['bar', 'restaurant']",6.3,Very Good,34.0,Uberlandia,11500
+['internet'],8.1,Excellent,57.0,Wanderland,21500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Uberlandia,37250
+"['bar', 'restaurant']",,,,Stokol,2000
+"['internet', 'bar']",6.7,Very Good,27.0,Machlessvile,12000
+"['intrnet', 'bar', 'gym']",7.5,Very Good,16.0,Uberlandia,17000
+"['restaurant', 'swimmingpools']",,,,Wanderland,80500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,6.0,Stokol,30000
+['restaurant'],,,,Willsmian,8500
+"['internet', 'bar', 'restaurant', 'gym']",10.0,Excellent,1.0,Stokol,13000
+['bar'],8.7,Excellent,22.0,Stokol,27000
+['bar'],7.6,Very Good,1.0,Willsmian,5000
+[],,,,Wanderland,1800
+"['bar', 'restaurant']",2.0,Fair,1.0,Andeman,4500
+['pool'],,,,Andeman,20000
+"['restaurant', 'pool']",6.4,Very Good,4.0,Machlessvile,18000
+"['intrnet', 'bar', 'swimmingpools']",8.8,Excellent,36.0,Willsmian,25000
+"['restaurant', 'pool', 'gym']",6.2,Very Good,30.0,Stokol,17999
+"['internet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Stokol,25800
+[],,,,Wanderland,2500
+"['bar', 'restaurant', 'pool', 'gym']",7.4,Very Good,10.0,Stokol,8000
+"['intrnet', 'bar', 'restaurant', 'pool']",8.7,Excellent,15.0,Hallerson,35000
+"['bar', 'restaurant', 'swimmingpools']",8.9,Excellent,3.0,Wanderland,20000
+"['restaurant', 'swimmingpools', 'gym']",9.3,Excellent,4.0,Hallerson,35000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,26.0,Hallerson,10000
+"['internet', 'bar', 'restaurant', 'gym']",7.2,Very Good,44.0,Stokol,30000
+"['internet', 'bar', 'restaurant', 'gym']",7.5,Very Good,9.0,Uberlandia,25250
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,32.0,Uberlandia,92000
+['restaurant'],7.1,Very Good,68.0,Andeman,20000
+[],,,,Willsmian,4200
+"['internet', 'bar', 'restaurant']",7.7,Very Good,11.0,Uberlandia,15000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Uberlandia,25000
+"['internet', 'bar', 'restaurant']",7.2,Very Good,39.0,Andeman,9200
+['restaurant'],,,,Wanderland,4250
+['restaurant'],7.1,Very Good,12.0,Willsmian,20000
+"['bar', 'restaurant']",3.6,Fair,1.0,Hallerson,3000
+"['bar', 'restaurant']",,,,Hallerson,4500
+['bar'],,,,Hallerson,5000
+"['bar', 'restaurant']",8.9,Excellent,5.0,Wanderland,17000
+"['internet', 'bar', 'restaurant', 'gym']",5.1,Good,4.0,Andeman,9500
+['internet'],8.9,Excellent,11.0,Andeman,18000
+"['intrnet', 'bar', 'restaurant']",,,,Stokol,7475
+['swimmingpools'],,,,Willsmian,20000
+['restaurant'],,,,Stokol,5000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,4.0,Machlessvile,49900
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,11.0,Andeman,30000
+"['internet', 'bar', 'restaurant']",9.4,Excellent,2.0,Uberlandia,12000
+"['intrnet', 'restaurant', 'gym']",5.6,Good,4.0,Hallerson,13000
+"['restaurant', 'gym']",5.6,Good,1.0,Hallerson,15500
+['restaurant'],7.4,Very Good,12.0,Ubisville,10000
+"['bar', 'restaurant']",3.9,Fair,3.0,Uberlandia,7000
+['swimmingpools'],,,,Stokol,20000
+"['internet', 'restaurant', 'pool']",6.4,Very Good,2.0,Andeman,6000
+"['bar', 'restaurant']",7.1,Very Good,10.0,Uberlandia,11000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",5.7,Good,37.0,Willsmian,30000
+"['internet', 'restaurant']",8.3,Excellent,6.0,Stokol,25000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Stokol,5000
+['bar'],8.7,Excellent,22.0,Stokol,27000
+"['bar', 'restaurant']",5.8,Good,10.0,Wanderland,3000
+"['bar', 'pool', 'gym']",8.6,Excellent,4.0,Wanderland,12800
+"['bar', 'restaurant']",8.1,Excellent,18.0,Machlessvile,15500
+"['bar', 'pool']",10.0,Excellent,1.0,Uberlandia,25000
+"['bar', 'restaurant']",7.3,Very Good,6.0,Machlessvile,6000
+"['internet', 'bar', 'restaurant', 'pool']",10.0,Excellent,1.0,Andeman,15000
+[],,,,Machlessvile,4000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,25.0,Hallerson,15000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",,,,Wanderland,100000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.0,Excellent,25.0,Willsmian,25000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Uberlandia,9300
+"['internet', 'bar', 'restaurant']",,,,Wanderland,9000
+"['restaurant', 'pool']",6.4,Very Good,4.0,Hallerson,18000
+"['internet', 'bar', 'restaurant']",6.7,Very Good,1.0,Willsmian,3000
+"['bar', 'restaurant']",,,,Hallerson,6000
+"['intrnet', 'restaurant', 'swimmingpools']",9.1,Excellent,12.0,Uberlandia,37200
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,11.0,Uberlandia,27000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.9,Excellent,19.0,Wanderland,35000
+"['intrnet', 'bar', 'restaurant']",2.5,Fair,4.0,Willsmian,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.2,Very Good,23.0,Hallerson,24500
+['bar'],8.7,Excellent,22.0,Uberlandia,27000
+"['bar', 'restaurant']",,,,Wanderland,3000
+"['bar', 'restaurant']",7.3,Very Good,6.0,Wanderland,6000
+[],,,,Stokol,3040
+[],5.6,Good,3.0,Uberlandia,14000
+"['bar', 'restaurant']",6.5,Very Good,12.0,Stokol,10000
+"['bar', 'restaurant', 'pool']",,,,Stokol,15000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Andeman,37250
+[],5.4,Good,2.0,Andeman,3000
+"['bar', 'restaurant']",7.3,Very Good,13.0,Uberlandia,7000
+"['intrnet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Uberlandia,20000
+[],,,,Willsmian,2000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,13.0,Uberlandia,20000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,7.0,Andeman,6500
+"['internet', 'restaurant', 'pool']",6.3,Very Good,14.0,Machlessvile,15000
+"['bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,1.0,Uberlandia,16500
+['restaurant'],7.1,Very Good,12.0,Andeman,20000
+"['bar', 'restaurant']",,,,Hallerson,3300
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,38.0,Wanderland,19000
+"['bar', 'restaurant']",7.6,Very Good,9.0,Ubisville,9000
+['bar'],7.1,Very Good,3.0,Stokol,8000
+"['internet', 'bar', 'restaurant', 'pool']",10.0,Excellent,2.0,Willsmian,25000
+"['intrnet', 'restaurant']",7.1,Very Good,2.0,Hallerson,9500
+"['bar', 'pool']",6.4,Very Good,49.0,Hallerson,20000
+"['bar', 'restaurant']",7.8,Very Good,2.0,Wanderland,11000
+"['bar', 'pool']",7.9,Very Good,4.0,Stokol,18000
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Uberlandia,24500
+['intrnet'],8.1,Excellent,57.0,Willsmian,21500
+"['bar', 'restaurant', 'pool', 'gym']",8.6,Excellent,6.0,Machlessvile,23000
+[],,,,Andeman,2500
+['bar'],8.7,Excellent,22.0,Uberlandia,27000
+"['bar', 'restaurant', 'gym']",7.9,Very Good,3.0,Hallerson,48000
+['restaurant'],8.4,Excellent,4.0,Andeman,15000
+['bar'],7.9,Very Good,13.0,Stokol,8400
+['bar'],,,,Wanderland,4500
+"['bar', 'restaurant', 'swimmingpools']",7.9,Very Good,6.0,Uberlandia,9000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,7.0,Andeman,12500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,46.0,Andeman,23000
+"['bar', 'restaurant']",,,,Stokol,4000
+['bar'],7.9,Very Good,3.0,Wanderland,15000
+"['bar', 'restaurant', 'pool']",7.6,Very Good,2.0,Wanderland,18000
+"['internet', 'restaurant', 'swimmingpools']",7.5,Very Good,154.0,Ubisville,20000
+"['bar', 'restaurant']",8.1,Excellent,6.0,Machlessvile,82400
+"['internet', 'bar', 'restaurant', 'gym']",7.2,Very Good,44.0,Machlessvile,30000
+"['intrnet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Stokol,20000
+"['intrnet', 'bar', 'restaurant']",8.5,Excellent,3.0,Wanderland,28500
+"['internet', 'bar']",6.7,Very Good,10.0,Uberlandia,35000
+"['internet', 'bar', 'restaurant']",8.6,Excellent,2.0,Machlessvile,9000
+[],2.3,Fair,2.0,Stokol,3200
+"['bar', 'restaurant']",7.2,Very Good,2.0,Uberlandia,3000
+"['internet', 'bar']",7.7,Very Good,34.0,Stokol,12750
+"['internet', 'bar', 'restaurant', 'pool']",7.4,Very Good,145.0,Wanderland,17000
+[],,,,Wanderland,6000
+[],,,,Stokol,17000
+"['internet', 'bar', 'restaurant']",,,,Andeman,5500
+['internet'],5.4,Good,13.0,Hallerson,4000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",6.0,Very Good,9.0,Stokol,35000
+[],6.3,Very Good,46.0,Wanderland,35000
+[],,,,Hallerson,1800
+"['internet', 'bar', 'restaurant', 'gym']",7.2,Very Good,44.0,Andeman,30000
+"['internet', 'bar']",7.4,Very Good,5.0,Hallerson,20000
+"['restaurant', 'swimmingpools']",,,,Stokol,80500
+['bar'],7.9,Very Good,12.0,Willsmian,25000
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,33.0,Wanderland,13975
+[],,,,Machlessvile,4025
+[],5.4,Good,2.0,Hallerson,3000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Stokol,20000
+"['internet', 'bar', 'restaurant', 'gym']",9.4,Excellent,5.0,Stokol,12000
+"['bar', 'restaurant']",9.6,Excellent,2.0,Andeman,12800
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",9.8,Excellent,4.0,Wanderland,64800
+"['intrnet', 'restaurant']",7.1,Very Good,13.0,Uberlandia,20000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.9,Very Good,5.0,Hallerson,24000
+[],3.6,Fair,1.0,Hallerson,2200
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.8,Very Good,24.0,Machlessvile,52875
+"['bar', 'restaurant']",9.4,Excellent,3.0,Stokol,20000
+"['bar', 'restaurant', 'pool']",4.9,Good,6.0,Stokol,12850
+"['internet', 'bar', 'restaurant']",6.8,Very Good,21.0,Hallerson,8800
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,6.0,Uberlandia,30000
+"['bar', 'restaurant']",6.2,Very Good,7.0,Andeman,8000
+['bar'],8.7,Excellent,22.0,Machlessvile,27000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",,,,Wanderland,6500
+"['internet', 'bar', 'restaurant']",8.3,Excellent,21.0,Ubisville,12000
+['pool'],,,,Uberlandia,20000
+['restaurant'],8.4,Excellent,4.0,Ubisville,15000
+"['bar', 'restaurant', 'pool', 'gym']",6.1,Very Good,8.0,Uberlandia,8000
+"['bar', 'restaurant']",6.6,Very Good,7.0,Hallerson,10000
+"['intrnet', 'restaurant', 'pool']",6.5,Very Good,8.0,Uberlandia,16000
+"['restaurant', 'pool']",6.0,Very Good,3.0,Andeman,33000
+"['intrnet', 'bar', 'restaurant', 'gym']",9.4,Excellent,5.0,Hallerson,12000
+['internet'],8.1,Excellent,57.0,Stokol,21500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,46.0,Uberlandia,23000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,4.0,Hallerson,49900
+"['bar', 'restaurant', 'pool']",,,,Wanderland,15000
+"['internet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Hallerson,20000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,6.0,Wanderland,32000
+"['bar', 'restaurant']",7.9,Very Good,59.0,Wanderland,20500
+['bar'],7.6,Very Good,1.0,Uberlandia,5000
+"['bar', 'restaurant']",2.8,Fair,3.0,Uberlandia,3000
+"['bar', 'pool', 'gym']",9.5,Excellent,4.0,Uberlandia,14997
+"['internet', 'bar', 'restaurant']",6.8,Very Good,1.0,Wanderland,17000
+"['bar', 'restaurant']",6.4,Very Good,1.0,Stokol,3500
+['restaurant'],,,,Stokol,5000
+['bar'],,,,Machlessvile,5000
+"['bar', 'restaurant']",6.2,Very Good,13.0,Andeman,3500
+"['bar', 'restaurant']",5.6,Good,1.0,Stokol,5400
+"['internet', 'bar']",6.7,Very Good,10.0,Machlessvile,35000
+"['bar', 'restaurant']",6.7,Very Good,50.0,Uberlandia,18000
+['intrnet'],7.7,Very Good,18.0,Andeman,20000
+"['intrnet', 'bar', 'restaurant']",9.6,Excellent,2.0,Uberlandia,15000
+"['bar', 'restaurant', 'pool']",7.1,Very Good,7.0,Wanderland,12500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",10.0,Excellent,1.0,Wanderland,25000
+"['bar', 'swimmingpools', 'gym']",8.6,Excellent,4.0,Uberlandia,12800
+['bar'],7.4,Very Good,43.0,Uberlandia,11500
+"['bar', 'restaurant']",6.9,Very Good,3.0,Stokol,2500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,15.0,Andeman,35000
+"['bar', 'restaurant', 'gym']",5.3,Good,4.0,Stokol,11500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",6.7,Very Good,32.0,Andeman,55537
+['bar'],,,,Andeman,3500
+"['internet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Wanderland,15000
+"['bar', 'restaurant', 'pool', 'gym']",7.4,Very Good,10.0,Wanderland,8000
+"['restaurant', 'gym']",5.6,Good,1.0,Hallerson,15500
+"['bar', 'restaurant']",8.1,Excellent,18.0,Stokol,15500
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Wanderland,45000
+[],,,,Wanderland,4500
+"['intrnet', 'bar', 'restaurant', 'gym']",,,,Stokol,10000
+"['bar', 'restaurant']",4.9,Good,5.0,Uberlandia,4400
+"['internet', 'bar']",8.8,Excellent,2.0,Wanderland,20000
+"['internet', 'restaurant', 'pool']",6.4,Very Good,2.0,Willsmian,6000
+"['bar', 'restaurant']",,,,Stokol,2000
+['bar'],6.3,Very Good,3.0,Hallerson,7000
+['internet'],,,,Willsmian,25000
+"['bar', 'restaurant']",8.0,Excellent,3.0,Andeman,9000
+"['bar', 'restaurant']",4.9,Good,5.0,Stokol,4400
+"['internet', 'restaurant', 'swimmingpools']",5.9,Good,3.0,Willsmian,6500
+"['bar', 'restaurant']",7.8,Very Good,2.0,Andeman,11000
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Andeman,6700
+['restaurant'],,,,Machlessvile,2300
+"['intrnet', 'restaurant', 'pool']",5.0,Good,2.0,Stokol,15000
+[],,,,Machlessvile,4500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",,,,Machlessvile,15000
+"['intrnet', 'bar', 'restaurant']",8.0,Excellent,36.0,Hallerson,19000
+['restaurant'],,,,Hallerson,4175
+"['bar', 'restaurant']",6.2,Very Good,8.0,Wanderland,14500
+['bar'],7.9,Very Good,13.0,Andeman,8400
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Stokol,33000
+"['bar', 'restaurant', 'pool', 'gym']",,,,Machlessvile,30000
+[],,,,Andeman,4500
+[],,,,Stokol,2200
+"['bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,2.0,Machlessvile,20000
+"['internet', 'restaurant']",7.1,Very Good,13.0,Willsmian,20000
+['internet'],,,,Wanderland,25000
+['pool'],8.2,Excellent,6.0,Andeman,30000
+"['bar', 'restaurant', 'swimmingpools']",8.9,Excellent,3.0,Stokol,20000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Stokol,10000
+"['bar', 'restaurant']",,,,Hallerson,2500
+"['bar', 'restaurant', 'swimmingpools']",5.2,Good,28.0,Hallerson,40326
+"['intrnet', 'bar', 'restaurant']",7.9,Very Good,10.0,Uberlandia,59000
+['bar'],7.8,Very Good,2.0,Ubisville,8000
+"['bar', 'restaurant']",5.8,Good,10.0,Stokol,3000
+"['bar', 'pool']",8.2,Excellent,152.0,Hallerson,30000
+"['intrnet', 'bar', 'pool']",8.8,Excellent,36.0,Hallerson,25000
+['bar'],,,,Andeman,6000
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Wanderland,6700
+"['bar', 'restaurant']",8.2,Excellent,2.0,Andeman,4000
+"['bar', 'restaurant', 'pool']",7.3,Very Good,41.0,Uberlandia,11000
+"['bar', 'restaurant']",8.0,Excellent,3.0,Andeman,11800
+"['internet', 'bar', 'restaurant']",,,,Machlessvile,5000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Wanderland,43000
+"['internet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Stokol,20000
+"['internet', 'bar']",8.8,Excellent,2.0,Ubisville,20000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,3.0,Stokol,8000
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,33.0,Uberlandia,13975
+[],,,,Willsmian,7500
+"['bar', 'restaurant', 'swimmingpools']",,,,Andeman,15000
+"['internet', 'bar']",7.7,Very Good,34.0,Willsmian,12750
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,4.0,Uberlandia,49900
+"['bar', 'restaurant']",8.8,Excellent,6.0,Machlessvile,12500
+"['bar', 'restaurant']",5.5,Good,3.0,Andeman,10000
+"['bar', 'restaurant']",8.4,Excellent,3.0,Andeman,12000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,25.0,Stokol,15000
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Stokol,24500
+"['bar', 'restaurant']",7.8,Very Good,10.0,Wanderland,7560
+['pool'],8.2,Excellent,6.0,Hallerson,30000
+"['internet', 'bar', 'swimmingpools']",7.3,Very Good,61.0,Wanderland,12000
+"['internet', 'bar', 'pool']",7.3,Very Good,61.0,Uberlandia,12000
+"['bar', 'pool', 'gym']",8.6,Excellent,4.0,Andeman,12800
+"['bar', 'restaurant']",6.0,Very Good,1.0,Stokol,7900
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.3,Excellent,6.0,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.7,Very Good,14.0,Wanderland,18000
+"['internet', 'bar', 'restaurant']",7.2,Very Good,2.0,Hallerson,56000
+"['intrnet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Hallerson,25800
+[],,,,Machlessvile,4500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,4.0,Hallerson,69569
+"['internet', 'bar', 'restaurant']",7.0,Very Good,20.0,Willsmian,143802
+"['bar', 'restaurant']",7.4,Very Good,50.0,Andeman,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,4.0,Ubisville,49900
+"['restaurant', 'pool', 'gym']",9.3,Excellent,4.0,Machlessvile,35000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Wanderland,43000
+"['bar', 'swimmingpools', 'gym']",8.6,Excellent,4.0,Hallerson,12800
+"['bar', 'restaurant']",,,,Ubisville,7500
+['internet'],8.9,Excellent,11.0,Hallerson,18000
+"['restaurant', 'swimmingpools']",8.0,Excellent,34.0,Hallerson,23000
+"['internet', 'bar']",7.7,Very Good,34.0,Machlessvile,12750
+"['bar', 'restaurant']",8.3,Excellent,11.0,Stokol,15000
+"['internet', 'bar']",7.4,Very Good,40.0,Andeman,13000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Andeman,20000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,16.0,Stokol,17000
+[],3.6,Fair,1.0,Uberlandia,2200
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.2,Good,3.0,Stokol,26875
+"['bar', 'restaurant']",8.4,Excellent,1.0,Wanderland,15000
+['restaurant'],,,,Machlessvile,4175
+"['bar', 'restaurant']",,,,Wanderland,4000
+[],6.4,Very Good,1.0,Stokol,5500
+"['intrnet', 'bar', 'swimmingpools', 'gym']",6.9,Very Good,12.0,Machlessvile,20000
+"['intrnet', 'bar', 'restaurant']",6.6,Very Good,4.0,Willsmian,7000
+"['bar', 'restaurant']",9.6,Excellent,3.0,Hallerson,9200
+"['bar', 'restaurant']",7.3,Very Good,9.0,Stokol,13000
+"['intrnet', 'bar', 'swimmingpools']",7.3,Very Good,61.0,Andeman,12000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,23.0,Wanderland,17000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Andeman,10000
+"['intrnet', 'bar']",6.9,Very Good,10.0,Willsmian,18000
+['intrnet'],8.1,Excellent,57.0,Machlessvile,21500
+['restaurant'],,,,Uberlandia,5000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",5.7,Good,37.0,Stokol,30000
+"['internet', 'bar', 'restaurant']",,,,Stokol,6000
+"['internet', 'bar']",7.2,Very Good,25.0,Stokol,15000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,6.0,Uberlandia,32000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",6.3,Very Good,8.0,Stokol,7000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",,,,Hallerson,6500
+['bar'],7.9,Very Good,12.0,Stokol,25000
+['bar'],7.9,Very Good,12.0,Hallerson,25000
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Stokol,24500
+"['internet', 'bar']",7.2,Very Good,25.0,Ubisville,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.7,Very Good,10.0,Stokol,40191
+['internet'],7.7,Very Good,18.0,Stokol,20000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,7.0,Stokol,12500
+"['bar', 'restaurant']",8.0,Excellent,4.0,Machlessvile,9000
+"['bar', 'restaurant']",6.9,Very Good,17.0,Uberlandia,13500
+"['internet', 'restaurant', 'pool']",7.5,Very Good,154.0,Stokol,20000
+"['internet', 'restaurant']",,,,Stokol,14904
+"['restaurant', 'swimmingpools']",6.4,Very Good,4.0,Wanderland,18000
+[],,,,Stokol,4200
+['bar'],5.8,Good,2.0,Wanderland,25000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.7,Very Good,10.0,Machlessvile,40191
+['bar'],,,,Willsmian,3000
+[],6.4,Very Good,1.0,Andeman,5500
+[],,,,Hallerson,8000
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,12.0,Hallerson,6000
+['bar'],5.8,Good,2.0,Stokol,25000
+"['bar', 'restaurant', 'pool', 'gym']",6.1,Very Good,8.0,Willsmian,8000
+['restaurant'],,,,Stokol,7000
+"['bar', 'restaurant']",7.3,Very Good,32.0,Hallerson,13500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,10.0,Hallerson,10000
+"['bar', 'restaurant']",,,,Willsmian,6000
+"['bar', 'restaurant', 'swimmingpools']",7.3,Very Good,41.0,Wanderland,11000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Hallerson,20000
+['restaurant'],,,,Willsmian,5000
+"['bar', 'restaurant']",6.6,Very Good,7.0,Ubisville,10000
+"['bar', 'restaurant']",7.3,Very Good,32.0,Machlessvile,13500
+"['bar', 'restaurant', 'pool', 'gym']",6.0,Very Good,9.0,Machlessvile,35000
+[],,,,Willsmian,8000
+"['bar', 'restaurant']",8.0,Excellent,6.0,Stokol,11500
+"['intrnet', 'bar', 'restaurant']",,,,Andeman,7475
+"['restaurant', 'pool', 'gym']",6.2,Very Good,30.0,Andeman,17999
+"['bar', 'restaurant']",3.6,Fair,1.0,Andeman,3000
+['restaurant'],7.1,Very Good,68.0,Wanderland,20000
+"['internet', 'bar', 'swimmingpools']",7.3,Very Good,61.0,Andeman,12000
+"['restaurant', 'pool', 'gym']",9.3,Excellent,4.0,Uberlandia,35000
+"['internet', 'restaurant']",7.5,Very Good,4.0,Wanderland,10500
+"['bar', 'restaurant', 'pool']",7.3,Very Good,41.0,Machlessvile,11000
+"['bar', 'restaurant']",4.9,Good,5.0,Andeman,4400
+[],,,,Willsmian,4025
+"['internet', 'bar', 'swimmingpools', 'gym']",8.2,Excellent,13.0,Wanderland,32000
+"['bar', 'restaurant']",7.2,Very Good,4.0,Hallerson,13000
+"['bar', 'restaurant']",8.0,Excellent,6.0,Ubisville,11500
+"['bar', 'restaurant', 'pool']",7.8,Very Good,10.0,Wanderland,13500
+['bar'],,,,Willsmian,5000
+"['bar', 'restaurant']",6.2,Very Good,10.0,Hallerson,4000
+['restaurant'],,,,Uberlandia,6175
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,18.0,Willsmian,15000
+['restaurant'],,,,Andeman,13160
+"['bar', 'restaurant']",7.8,Very Good,10.0,Stokol,7560
+"['intrnet', 'restaurant']",8.3,Excellent,6.0,Willsmian,25000
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Hallerson,36000
+"['restaurant', 'swimmingpools']",8.1,Excellent,3.0,Machlessvile,7000
+"['bar', 'restaurant']",7.6,Very Good,3.0,Willsmian,5000
+"['bar', 'restaurant']",6.0,Very Good,3.0,Willsmian,8000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,32.0,Wanderland,92000
+"['internet', 'restaurant']",8.0,Excellent,7.0,Machlessvile,44000
+[],9.2,Excellent,1.0,Machlessvile,7800
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,33.0,Stokol,13975
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,17.0,Hallerson,16200
+['internet'],7.7,Very Good,18.0,Wanderland,20000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",9.3,Excellent,3.0,Uberlandia,88600
+"['internet', 'restaurant', 'pool']",5.9,Good,3.0,Hallerson,6500
+['restaurant'],6.0,Very Good,79.0,Uberlandia,5500
+"['internet', 'bar', 'restaurant', 'gym']",,,,Hallerson,10000
+"['restaurant', 'pool']",,,,Hallerson,80500
+"['bar', 'restaurant']",,,,Wanderland,4000
+[],6.0,Very Good,43.0,Wanderland,15000
+"['intrnet', 'bar', 'restaurant']",,,,Hallerson,6000
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Machlessvile,6700
+['restaurant'],,,,Andeman,5405
+[],3.6,Fair,1.0,Stokol,2200
+"['intrnet', 'bar', 'restaurant']",6.8,Very Good,8.0,Wanderland,20000
+"['bar', 'restaurant']",6.4,Very Good,1.0,Andeman,3500
+"['restaurant', 'gym']",5.6,Good,1.0,Uberlandia,15500
+"['internet', 'bar']",7.2,Very Good,25.0,Wanderland,15000
+"['internet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Uberlandia,20000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,23.0,Wanderland,20000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Willsmian,10000
+[],,,,Uberlandia,6000
+"['intrnet', 'pool', 'gym']",7.6,Very Good,2.0,Stokol,27000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Hallerson,25000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",3.7,Fair,2.0,Uberlandia,45000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",,,,Willsmian,100000
+"['bar', 'restaurant']",7.2,Very Good,9.0,Uberlandia,15650
+"['bar', 'restaurant']",6.6,Very Good,7.0,Machlessvile,10000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Machlessvile,17500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,5.0,Hallerson,33000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,23.0,Wanderland,28000
+"['bar', 'restaurant']",,,,Machlessvile,3600
+"['internet', 'bar', 'restaurant']",7.7,Very Good,125.0,Uberlandia,9800
+[],,,,Uberlandia,4200
+['restaurant'],,,,Uberlandia,2300
+['bar'],6.0,Very Good,1.0,Andeman,4000
+"['intrnet', 'bar']",6.7,Very Good,27.0,Wanderland,12000
+"['internet', 'bar']",7.4,Very Good,40.0,Uberlandia,13000
+"['intrnet', 'bar', 'restaurant', 'pool']",,,,Stokol,15000
+['restaurant'],7.1,Very Good,68.0,Hallerson,20000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,8.0,Andeman,38500
+"['internet', 'bar', 'swimmingpools', 'gym']",8.2,Excellent,13.0,Hallerson,32000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,23.0,Machlessvile,17000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,17.0,Andeman,16200
+"['bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,6.0,Wanderland,12000
+"['intrnet', 'bar', 'restaurant']",6.3,Very Good,30.0,Wanderland,22000
+"['internet', 'bar', 'restaurant', 'gym']",,,,Machlessvile,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.0,Excellent,25.0,Stokol,25000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,25.0,Andeman,15000
+[],,,,Wanderland,3700
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Andeman,33000
+['restaurant'],,,,Machlessvile,5405
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,6.0,Wanderland,30000
+['bar'],8.7,Excellent,22.0,Andeman,27000
+"['bar', 'restaurant']",9.2,Excellent,2.0,Stokol,13350
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.5,Very Good,42.0,Hallerson,18480
+"['internet', 'bar']",6.9,Very Good,10.0,Uberlandia,18000
+"['bar', 'restaurant']",4.2,Good,4.0,Andeman,4500
+['restaurant'],,,,Andeman,8500
+"['internet', 'bar', 'restaurant', 'gym']",7.5,Very Good,9.0,Machlessvile,25250
+"['bar', 'restaurant']",8.1,Excellent,6.0,Uberlandia,82400
+"['bar', 'restaurant']",8.4,Excellent,1.0,Wanderland,2500
+"['bar', 'restaurant']",8.2,Excellent,2.0,Wanderland,4000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,6.0,Willsmian,25000
+"['bar', 'restaurant']",7.8,Very Good,4.0,Hallerson,10000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Hallerson,5000
+"['bar', 'restaurant']",7.4,Very Good,5.0,Andeman,15000
+['bar'],,,,Willsmian,6000
+['pool'],,,,Stokol,20000
+"['bar', 'restaurant']",5.8,Good,43.0,Uberlandia,6000
+"['bar', 'restaurant']",6.2,Very Good,10.0,Andeman,4000
+"['internet', 'bar', 'restaurant', 'gym']",10.0,Excellent,1.0,Willsmian,13000
+"['bar', 'restaurant']",2.0,Fair,1.0,Willsmian,4500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,32.0,Stokol,27500
+"['bar', 'pool']",6.4,Very Good,49.0,Wanderland,20000
+[],7.0,Very Good,1.0,Stokol,3700
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.1,Good,13.0,Hallerson,88800
+['restaurant'],,,,Hallerson,8500
+"['bar', 'restaurant']",6.0,Very Good,1.0,Wanderland,7900
+[],7.6,Very Good,1.0,Stokol,11000
+"['internet', 'bar', 'restaurant', 'gym']",10.0,Excellent,1.0,Uberlandia,13000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.5,Very Good,42.0,Uberlandia,18480
+['restaurant'],8.6,Excellent,7.0,Andeman,15500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",,,,Andeman,6500
+"['internet', 'bar']",6.7,Very Good,10.0,Willsmian,35000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,1.0,Stokol,26500
+"['internet', 'bar', 'restaurant']",7.4,Very Good,26.0,Wanderland,10000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,1.0,Willsmian,17000
+"['internet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Willsmian,20000
+"['internet', 'restaurant']",7.8,Very Good,15.0,Andeman,17483
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Stokol,9750
+"['bar', 'restaurant']",8.0,Excellent,6.0,Stokol,20000
+"['bar', 'restaurant']",9.2,Excellent,2.0,Uberlandia,13350
+"['internet', 'restaurant', 'pool']",6.4,Very Good,2.0,Ubisville,6000
+"['bar', 'pool']",7.8,Very Good,26.0,Hallerson,19000
+"['internet', 'bar', 'restaurant']",8.2,Excellent,20.0,Machlessvile,20000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Hallerson,10000
+['restaurant'],6.4,Very Good,1.0,Willsmian,9900
+[],,,,Andeman,1800
+"['bar', 'restaurant', 'swimmingpools']",,,,Hallerson,12000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Machlessvile,20000
+[],9.6,Excellent,4.0,Wanderland,6000
+"['bar', 'restaurant', 'swimmingpools']",,,,Wanderland,3500
+"['bar', 'restaurant']",8.0,Excellent,1.0,Stokol,7000
+"['bar', 'restaurant']",7.1,Very Good,10.0,Machlessvile,11000
+"['internet', 'bar', 'restaurant', 'pool']",7.8,Very Good,5.0,Wanderland,25000
+[],,,,Wanderland,2800
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",,,,Uberlandia,100000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Stokol,20000
+[],,,,Hallerson,7500
+"['intrnet', 'bar', 'restaurant']",,,,Andeman,10000
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Willsmian,60500
+"['bar', 'restaurant']",5.8,Good,8.0,Stokol,18000
+"['bar', 'restaurant']",8.5,Excellent,4.0,Machlessvile,10000
+['restaurant'],6.0,Very Good,79.0,Stokol,5500
+"['bar', 'restaurant']",7.5,Very Good,8.0,Hallerson,16000
+['intrnet'],8.1,Excellent,57.0,Hallerson,21500
+['restaurant'],4.9,Good,4.0,Andeman,6000
+"['bar', 'restaurant', 'pool', 'gym']",,,,Stokol,30000
+[],,,,Uberlandia,4000
+['restaurant'],,,,Andeman,3500
+"['bar', 'restaurant']",,,,Uberlandia,2500
+"['bar', 'restaurant']",7.3,Very Good,7.0,Stokol,13500
+"['bar', 'restaurant']",8.0,Excellent,4.0,Stokol,9000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,1.0,Andeman,25000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,35.0,Machlessvile,67000
+"['bar', 'restaurant', 'pool']",8.0,Excellent,9.0,Andeman,25000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,5.0,Wanderland,33000
+"['internet', 'restaurant']",5.7,Good,6.0,Andeman,16500
+"['bar', 'restaurant']",7.7,Very Good,40.0,Machlessvile,20000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.9,Very Good,5.0,Andeman,24000
+['restaurant'],7.4,Very Good,12.0,Andeman,10000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.7,Very Good,32.0,Ubisville,55537
+"['bar', 'restaurant']",7.6,Very Good,3.0,Andeman,5000
+[],,,,Andeman,23050
+"['bar', 'restaurant', 'pool', 'gym']",8.6,Excellent,6.0,Willsmian,23000
+"['internet', 'bar']",6.6,Very Good,14.0,Stokol,11000
+"['internet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Machlessvile,15000
+"['restaurant', 'pool']",,,,Machlessvile,80500
+"['bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,2.0,Stokol,20000
+"['bar', 'restaurant', 'pool', 'gym']",5.7,Good,37.0,Machlessvile,30000
+[],,,,Stokol,4025
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,125.0,Andeman,9800
+['bar'],4.2,Good,5.0,Andeman,8000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,23.0,Stokol,17000
+['bar'],,,,Uberlandia,3500
+[],,,,Hallerson,4000
+"['bar', 'restaurant']",6.3,Very Good,34.0,Stokol,11500
+"['internet', 'restaurant', 'pool']",8.2,Excellent,97.0,Andeman,16000
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,39.0,Uberlandia,9200
+[],,,,Uberlandia,2200
+['restaurant'],6.0,Very Good,79.0,Hallerson,5500
+"['bar', 'restaurant']",8.1,Excellent,6.0,Hallerson,82400
+"['bar', 'pool']",10.0,Excellent,1.0,Andeman,25000
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Uberlandia,20000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.3,Very Good,23.0,Stokol,28000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,21.0,Willsmian,12000
+['restaurant'],,,,Hallerson,2300
+"['internet', 'bar', 'restaurant', 'pool']",7.8,Very Good,28.0,Hallerson,49500
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,2.0,Machlessvile,56000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Stokol,25000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,1.0,Hallerson,25000
+"['internet', 'bar', 'restaurant', 'gym']",5.1,Good,4.0,Machlessvile,9500
+"['internet', 'bar', 'restaurant']",6.8,Very Good,1.0,Uberlandia,17000
+"['internet', 'bar', 'restaurant']",,,,Ubisville,54450
+"['bar', 'restaurant']",5.8,Good,43.0,Stokol,6000
+"['bar', 'restaurant', 'pool', 'gym']",9.3,Excellent,3.0,Andeman,88600
+"['intrnet', 'bar', 'restaurant']",,,,Andeman,7000
+"['bar', 'restaurant', 'pool', 'gym']",8.6,Excellent,6.0,Andeman,23000
+[],,,,Machlessvile,30000
+[],,,,Willsmian,3200
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Hallerson,24500
+"['intrnet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Wanderland,20000
+"['internet', 'bar', 'restaurant']",2.8,Fair,5.0,Wanderland,16800
+['internet'],5.4,Good,13.0,Wanderland,4000
+"['internet', 'bar']",7.2,Very Good,25.0,Hallerson,15000
+['bar'],,,,Ubisville,4500
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,39.0,Hallerson,9200
+[],,,,Stokol,30000
+"['bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,351.0,Andeman,30000
+['restaurant'],,,,Wanderland,5405
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",,,,Uberlandia,7000
+"['internet', 'bar', 'swimmingpools']",7.0,Very Good,6.0,Machlessvile,45000
+"['intrnet', 'bar', 'restaurant']",7.1,Very Good,4.0,Andeman,7500
+"['internet', 'bar', 'restaurant']",5.6,Good,50.0,Hallerson,5000
+"['internet', 'bar', 'restaurant']",7.1,Very Good,4.0,Wanderland,7500
+"['bar', 'restaurant']",7.2,Very Good,4.0,Stokol,13000
+"['bar', 'restaurant', 'gym']",7.1,Very Good,8.0,Ubisville,6600
+"['internet', 'bar', 'restaurant']",7.0,Very Good,20.0,Stokol,143802
+"['bar', 'restaurant', 'swimmingpools', 'gym']",9.3,Excellent,3.0,Hallerson,88600
+"['internet', 'bar', 'restaurant']",7.4,Very Good,26.0,Stokol,10000
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,2.0,Wanderland,56000
+[],,,,Uberlandia,4500
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,23.0,Stokol,20000
+"['intrnet', 'bar', 'restaurant']",,,,Wanderland,5500
+"['intrnet', 'bar', 'restaurant', 'pool']",7.5,Very Good,35.0,Hallerson,67000
+['bar'],,,,Stokol,6000
+"['internet', 'bar']",6.6,Very Good,14.0,Hallerson,11000
+"['intrnet', 'swimmingpools', 'gym']",7.6,Very Good,2.0,Andeman,27000
+"['internet', 'restaurant', 'pool']",9.1,Excellent,12.0,Wanderland,37200
+[],5.6,Good,3.0,Wanderland,14000
+[],,,,Uberlandia,2000
+['internet'],5.4,Good,13.0,Willsmian,4000
+"['intrnet', 'restaurant']",,,,Willsmian,50000
+"['internet', 'bar', 'swimmingpools', 'gym']",6.9,Very Good,12.0,Hallerson,20000
+"['intrnet', 'restaurant', 'swimmingpools']",6.4,Very Good,2.0,Stokol,6000
+"['bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,351.0,Wanderland,30000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,16.0,Willsmian,17000
+"['bar', 'restaurant']",7.3,Very Good,32.0,Uberlandia,13500
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Stokol,11500
+"['internet', 'bar', 'restaurant']",8.3,Excellent,18.0,Wanderland,30000
+"['intrnet', 'bar', 'pool', 'gym']",9.6,Excellent,3.0,Hallerson,55000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,18.0,Stokol,15000
+"['internet', 'bar']",7.4,Very Good,40.0,Wanderland,13000
+['internet'],7.7,Very Good,10.0,Willsmian,5000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.9,Very Good,24.0,Andeman,50000
+[],,,,Wanderland,4500
+"['bar', 'restaurant']",6.1,Very Good,4.0,Uberlandia,6000
+"['intrnet', 'bar', 'swimmingpools', 'gym']",5.5,Good,8.0,Stokol,7000
+"['bar', 'pool']",8.2,Excellent,152.0,Uberlandia,30000
+"['bar', 'restaurant']",6.2,Very Good,13.0,Stokol,3500
+"['internet', 'bar']",7.7,Very Good,34.0,Stokol,12750
+"['restaurant', 'swimmingpools']",8.0,Excellent,34.0,Willsmian,23000
+[],,,,Willsmian,53475
+['bar'],,,,Uberlandia,2500
+"['bar', 'restaurant']",8.5,Excellent,3.0,Uberlandia,8000
+"['internet', 'restaurant', 'pool']",7.3,Very Good,25.0,Stokol,20000
+"['bar', 'restaurant', 'gym']",7.9,Very Good,3.0,Machlessvile,48000
+"['bar', 'restaurant']",5.0,Good,4.0,Machlessvile,3500
+"['internet', 'bar', 'restaurant']",,,,Uberlandia,54450
+"['internet', 'restaurant']",4.9,Good,30.0,Andeman,19720
+"['bar', 'restaurant']",9.4,Excellent,3.0,Machlessvile,20000
+"['bar', 'pool', 'gym']",6.9,Very Good,13.0,Stokol,21000
+"['bar', 'restaurant']",5.0,Good,4.0,Hallerson,3500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.4,Very Good,145.0,Stokol,17000
+"['bar', 'restaurant']",6.3,Very Good,34.0,Andeman,11500
+['bar'],,,,Stokol,3500
+"['intrnet', 'bar', 'restaurant']",,,,Stokol,5000
+['bar'],,,,Wanderland,3000
+"['intrnet', 'restaurant']",7.1,Very Good,13.0,Wanderland,20000
+"['internet', 'bar', 'restaurant']",7.1,Very Good,9.0,Stokol,9000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Hallerson,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.7,Very Good,32.0,Stokol,55537
+"['restaurant', 'swimmingpools']",6.0,Very Good,3.0,Wanderland,33000
+"['bar', 'restaurant']",,,,Andeman,5000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.2,Very Good,23.0,Andeman,24500
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Andeman,45000
+"['bar', 'restaurant', 'pool', 'gym']",,,,Uberlandia,7125
+"['internet', 'bar', 'restaurant']",7.0,Very Good,23.0,Hallerson,20000
+"['internet', 'bar', 'swimmingpools']",7.3,Very Good,61.0,Hallerson,12000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Andeman,43000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,26.0,Wanderland,10000
+['internet'],8.4,Excellent,3.0,Wanderland,10000
+"['bar', 'restaurant']",8.3,Excellent,5.0,Stokol,8000
+['swimmingpools'],8.8,Excellent,1.0,Stokol,35000
+"['bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,6.0,Ubisville,12000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,31.0,Uberlandia,14000
+"['bar', 'restaurant']",7.2,Very Good,2.0,Stokol,3000
+"['bar', 'restaurant']",5.8,Good,43.0,Willsmian,6000
+"['bar', 'restaurant', 'swimmingpools']",6.7,Very Good,10.0,Willsmian,14000
+"['swimmingpools', 'gym']",,,,Machlessvile,16100
+"['bar', 'restaurant', 'swimmingpools']",6.8,Very Good,1.0,Willsmian,11150
+[],,,,Hallerson,4500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",,,,Willsmian,6500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Stokol,92000
+"['bar', 'restaurant']",6.1,Very Good,4.0,Hallerson,6000
+"['internet', 'bar', 'restaurant']",8.5,Excellent,3.0,Andeman,28500
+"['intrnet', 'bar']",7.4,Very Good,40.0,Andeman,13000
+"['bar', 'restaurant']",9.6,Excellent,1.0,Wanderland,8000
+[],6.4,Very Good,1.0,Hallerson,10000
+"['restaurant', 'pool', 'gym']",6.2,Very Good,30.0,Machlessvile,17999
+"['intrnet', 'bar', 'restaurant']",8.2,Excellent,20.0,Wanderland,20000
+"['bar', 'restaurant']",8.1,Excellent,18.0,Ubisville,15500
+"['bar', 'restaurant']",8.0,Excellent,7.0,Uberlandia,10000
+"['restaurant', 'pool']",6.2,Very Good,21.0,Machlessvile,19000
+"['internet', 'restaurant', 'pool']",8.2,Excellent,97.0,Wanderland,16000
+[],9.2,Excellent,1.0,Stokol,7800
+"['internet', 'bar', 'restaurant']",,,,Ubisville,6000
+"['bar', 'restaurant', 'gym']",5.7,Good,6.0,Andeman,7350
+"['bar', 'restaurant']",6.9,Very Good,17.0,Willsmian,13500
+"['bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,17.0,Ubisville,16200
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.5,Very Good,42.0,Andeman,18480
+"['intrnet', 'bar', 'restaurant']",,,,Andeman,9000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,18.0,Uberlandia,30000
+"['restaurant', 'swimmingpools']",8.0,Excellent,34.0,Uberlandia,23000
+"['bar', 'swimmingpools']",10.0,Excellent,1.0,Wanderland,25000
+"['bar', 'restaurant']",7.8,Very Good,2.0,Ubisville,11000
+"['bar', 'restaurant']",7.6,Very Good,9.0,Wanderland,9000
+[],,,,Stokol,8000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.3,Very Good,8.0,Stokol,38500
+"['internet', 'bar', 'restaurant']",,,,Ubisville,15000
+"['bar', 'restaurant']",,,,Stokol,4500
+['bar'],,,,Stokol,3000
+"['bar', 'restaurant']",7.8,Very Good,4.0,Andeman,10000
+"['bar', 'restaurant', 'pool', 'gym']",,,,Andeman,30000
+['bar'],7.9,Very Good,12.0,Wanderland,25000
+"['bar', 'restaurant']",7.1,Very Good,10.0,Stokol,11000
+"['bar', 'restaurant', 'swimmingpools']",7.4,Very Good,12.0,Andeman,20090
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,38.0,Wanderland,19000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.9,Very Good,5.0,Uberlandia,24000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.8,Very Good,24.0,Stokol,52875
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,40.0,Andeman,16500
+"['bar', 'restaurant']",,,,Uberlandia,6000
+"['restaurant', 'pool']",,,,Uberlandia,10000
+"['intrnet', 'restaurant', 'swimmingpools']",7.5,Very Good,154.0,Machlessvile,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",9.8,Excellent,4.0,Stokol,64800
+['restaurant'],7.2,Very Good,12.0,Stokol,9000
+"['bar', 'swimmingpools']",10.0,Excellent,1.0,Stokol,25000
+"['intrnet', 'bar']",6.6,Very Good,14.0,Andeman,11000
+['pool'],,,,Uberlandia,20000
+"['internet', 'bar', 'restaurant', 'pool']",10.0,Excellent,2.0,Andeman,25000
+"['bar', 'restaurant']",8.2,Excellent,5.0,Stokol,3000
+"['bar', 'restaurant']",7.5,Very Good,8.0,Wanderland,16000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",10.0,Excellent,1.0,Hallerson,15000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,17.0,Andeman,60000
+['restaurant'],4.4,Good,1.0,Andeman,10000
+"['bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,17.0,Machlessvile,16200
+"['intrnet', 'pool', 'gym']",,,,Hallerson,64600
+"['restaurant', 'gym']",,,,Hallerson,36000
+[],9.0,Excellent,1.0,Willsmian,2700
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Machlessvile,45000
+"['intrnet', 'restaurant']",,,,Uberlandia,14904
+[],6.3,Very Good,46.0,Wanderland,35000
+"['intrnet', 'bar', 'restaurant']",,,,Machlessvile,10000
+"['bar', 'restaurant']",10.0,Excellent,1.0,Stokol,13225
+['bar'],,,,Willsmian,2500
+"['restaurant', 'pool']",,,,Willsmian,80500
+[],,,,Willsmian,1800
+"['intrnet', 'bar', 'restaurant', 'pool']",7.5,Very Good,35.0,Stokol,67000
+['restaurant'],4.9,Good,4.0,Stokol,6000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,25.0,Stokol,15000
+"['bar', 'restaurant']",8.0,Excellent,3.0,Stokol,9000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,14.0,Wanderland,5000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.5,Very Good,42.0,Willsmian,18480
+"['pool', 'gym']",,,,Wanderland,16100
+['intrnet'],5.4,Good,13.0,Uberlandia,4000
+"['bar', 'swimmingpools']",10.0,Excellent,1.0,Stokol,25000
+"['bar', 'restaurant']",7.2,Very Good,9.0,Wanderland,15650
+"['intrnet', 'bar', 'restaurant', 'pool']",8.7,Excellent,15.0,Uberlandia,35000
+"['bar', 'restaurant']",8.8,Excellent,6.0,Ubisville,12500
+"['bar', 'restaurant']",4.9,Good,3.0,Hallerson,9000
+"['bar', 'restaurant']",7.2,Very Good,4.0,Willsmian,13000
+"['bar', 'restaurant']",7.4,Very Good,4.0,Willsmian,15000
+"['bar', 'restaurant']",8.0,Excellent,1.0,Willsmian,7000
+"['internet', 'bar']",6.6,Very Good,14.0,Willsmian,11000
+"['internet', 'restaurant', 'swimmingpools']",8.2,Excellent,97.0,Hallerson,16000
+[],8.3,Excellent,4.0,Andeman,35000
+"['bar', 'restaurant']",6.3,Very Good,34.0,Hallerson,11500
+"['intrnet', 'bar', 'restaurant', 'pool']",7.8,Very Good,28.0,Andeman,49500
+"['restaurant', 'swimmingpools', 'gym']",9.3,Excellent,4.0,Andeman,35000
+"['internet', 'bar', 'restaurant']",9.4,Excellent,2.0,Willsmian,12000
+[],9.2,Excellent,1.0,Uberlandia,7800
+"['bar', 'restaurant']",6.0,Very Good,8.0,Wanderland,8500
+['restaurant'],6.1,Very Good,24.0,Willsmian,5000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,23.0,Willsmian,20000
+"['internet', 'bar', 'restaurant']",6.2,Very Good,7.0,Machlessvile,7500
+"['restaurant', 'pool']",6.2,Very Good,21.0,Willsmian,19000
+"['internet', 'bar', 'restaurant', 'pool']",8.0,Excellent,7.0,Willsmian,6000
+"['bar', 'restaurant']",,,,Ubisville,4000
+[],10.0,Excellent,1.0,Stokol,20000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Uberlandia,20000
+"['internet', 'restaurant']",7.1,Very Good,13.0,Hallerson,20000
+"['bar', 'restaurant', 'swimmingpools']",,,,Andeman,3500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",5.0,Good,10.0,Uberlandia,35000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.2,Good,3.0,Stokol,26875
+"['intrnet', 'bar', 'restaurant']",7.1,Very Good,3.0,Uberlandia,4000
+"['intrnet', 'restaurant']",8.3,Excellent,6.0,Uberlandia,25000
+"['intrnet', 'restaurant']",7.1,Very Good,2.0,Machlessvile,9500
+['restaurant'],6.0,Very Good,79.0,Andeman,5500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Ubisville,20000
+['bar'],7.8,Very Good,2.0,Stokol,8000
+"['bar', 'restaurant']",8.4,Excellent,1.0,Uberlandia,2500
+"['bar', 'restaurant']",8.0,Excellent,1.0,Wanderland,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Hallerson,20000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,4.0,Willsmian,49900
+['swimmingpools'],8.2,Excellent,6.0,Andeman,30000
+['restaurant'],,,,Stokol,10000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,2.0,Wanderland,20000
+"['intrnet', 'bar', 'pool']",7.0,Very Good,6.0,Wanderland,45000
+"['intrnet', 'bar', 'restaurant', 'gym']",9.4,Excellent,5.0,Uberlandia,12000
+"['bar', 'restaurant']",8.8,Excellent,1.0,Wanderland,5000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,31.0,Stokol,14000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,7.0,Stokol,12500
+"['bar', 'pool', 'gym']",9.5,Excellent,4.0,Andeman,14997
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,33.0,Machlessvile,13975
+"['internet', 'restaurant', 'pool']",7.3,Very Good,25.0,Stokol,20000
+['bar'],,,,Ubisville,5000
+['intrnet'],5.4,Good,13.0,Hallerson,4000
+"['bar', 'restaurant', 'pool', 'gym']",5.5,Good,3.0,Hallerson,7700
+['restaurant'],6.0,Very Good,79.0,Willsmian,5500
+"['intrnet', 'bar', 'restaurant']",2.8,Fair,5.0,Andeman,16800
+"['bar', 'restaurant']",,,,Stokol,4000
+"['internet', 'bar']",6.7,Very Good,27.0,Ubisville,12000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.9,Very Good,24.0,Machlessvile,50000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Andeman,92000
+"['intrnet', 'restaurant']",,,,Uberlandia,50000
+"['bar', 'restaurant', 'swimmingpools']",7.9,Very Good,6.0,Wanderland,9000
+[],9.6,Excellent,4.0,Andeman,6000
+"['internet', 'bar', 'restaurant']",,,,Wanderland,7475
+"['bar', 'restaurant']",8.2,Excellent,5.0,Wanderland,3000
+"['internet', 'bar', 'restaurant']",6.7,Very Good,1.0,Uberlandia,3000
+"['internet', 'bar']",,,,Wanderland,31625
+"['internet', 'bar', 'restaurant']",,,,Hallerson,15000
+[],,,,Andeman,4000
+"['bar', 'restaurant']",8.1,Excellent,6.0,Willsmian,82400
+['restaurant'],,,,Andeman,4250
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.7,Very Good,7.0,Stokol,7140
+"['internet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Hallerson,40000
+"['bar', 'restaurant']",8.5,Excellent,5.0,Wanderland,3500
+[],8.8,Excellent,1.0,Hallerson,20000
+['restaurant'],,,,Wanderland,7000
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Ubisville,45000
+"['internet', 'bar', 'swimmingpools']",7.0,Very Good,6.0,Andeman,45000
+[],,,,Uberlandia,3500
+"['internet', 'bar', 'restaurant']",7.2,Very Good,2.0,Andeman,56000
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Andeman,30000
+"['bar', 'restaurant', 'pool']",,,,Stokol,8000
+"['bar', 'restaurant']",,,,Andeman,8000
+"['intrnet', 'bar']",8.8,Excellent,2.0,Willsmian,20000
+[],2.3,Fair,2.0,Uberlandia,3200
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,23.0,Andeman,20000
+"['bar', 'restaurant']",6.8,Very Good,3.0,Willsmian,23000
+"['bar', 'restaurant']",,,,Willsmian,4000
+"['internet', 'restaurant', 'pool']",8.2,Excellent,97.0,Stokol,16000
+['intrnet'],7.7,Very Good,18.0,Hallerson,20000
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Hallerson,45000
+"['internet', 'bar', 'restaurant']",6.7,Very Good,1.0,Hallerson,3000
+"['intrnet', 'bar', 'restaurant', 'pool']",7.9,Very Good,24.0,Wanderland,50000
+"['restaurant', 'pool']",,,,Uberlandia,80500
+"['bar', 'restaurant']",7.8,Very Good,4.0,Ubisville,10000
+['internet'],5.4,Good,13.0,Wanderland,4000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,8.0,Wanderland,40000
+['bar'],4.2,Good,5.0,Wanderland,8000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Uberlandia,5000
+"['internet', 'bar', 'restaurant', 'gym']",7.2,Very Good,44.0,Uberlandia,30000
+['swimmingpools'],,,,Andeman,25000
+"['internet', 'bar', 'restaurant']",,,,Willsmian,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,11.0,Stokol,27000
+[],6.4,Very Good,1.0,Wanderland,5500
+"['bar', 'restaurant', 'pool', 'gym']",8.6,Excellent,8.0,Andeman,108900
+"['bar', 'restaurant']",,,,Willsmian,3600
+"['internet', 'bar', 'restaurant']",7.2,Very Good,2.0,Wanderland,56000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",,,,Stokol,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,1.0,Stokol,16500
+"['intrnet', 'bar', 'restaurant']",6.6,Very Good,4.0,Stokol,7000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,125.0,Wanderland,9800
+"['internet', 'bar', 'restaurant']",8.0,Excellent,36.0,Machlessvile,19000
+['restaurant'],,,,Uberlandia,8500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",,,,Andeman,7000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Hallerson,15000
+"['bar', 'restaurant']",2.8,Fair,3.0,Andeman,3000
+"['bar', 'restaurant', 'pool', 'gym']",,,,Stokol,7125
+['internet'],8.4,Excellent,3.0,Andeman,10000
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,36.0,Stokol,30000
+"['bar', 'restaurant', 'pool']",,,,Wanderland,12000
+"['internet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Uberlandia,40000
+"['internet', 'bar', 'restaurant']",6.9,Very Good,33.0,Hallerson,13975
+"['intrnet', 'bar', 'restaurant', 'pool']",7.8,Very Good,28.0,Machlessvile,49500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Willsmian,9750
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Uberlandia,60500
+"['bar', 'restaurant']",5.8,Good,43.0,Ubisville,6000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,1.0,Andeman,16500
+"['internet', 'bar', 'restaurant']",5.8,Good,8.0,Willsmian,6000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Wanderland,17500
+"['intrnet', 'bar', 'restaurant']",2.8,Fair,5.0,Stokol,16800
+"['internet', 'bar', 'restaurant']",7.2,Very Good,39.0,Uberlandia,9200
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,46.0,Wanderland,23000
+['internet'],8.9,Excellent,11.0,Willsmian,18000
+['bar'],,,,Stokol,4500
+"['internet', 'restaurant', 'pool']",8.2,Excellent,97.0,Stokol,16000
+"['bar', 'restaurant', 'swimmingpools']",6.7,Very Good,10.0,Stokol,14000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Andeman,15000
+"['bar', 'restaurant']",7.2,Very Good,2.0,Stokol,15000
+"['intrnet', 'restaurant']",7.5,Very Good,4.0,Andeman,10500
+"['bar', 'restaurant']",,,,Stokol,7500
+"['restaurant', 'pool']",6.4,Very Good,4.0,Stokol,18000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Uberlandia,20000
+"['restaurant', 'pool']",,,,Uberlandia,29000
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Ubisville,60500
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,39.0,Stokol,15000
+"['bar', 'restaurant']",4.0,Good,8.0,Stokol,2500
+['restaurant'],,,,Willsmian,7000
+"['bar', 'pool']",8.2,Excellent,152.0,Hallerson,30000
+[],,,,Wanderland,7500
+"['internet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Hallerson,15000
+"['restaurant', 'pool', 'gym']",9.3,Excellent,4.0,Wanderland,35000
+"['internet', 'restaurant']",4.9,Good,30.0,Uberlandia,19720
+"['bar', 'restaurant']",8.1,Excellent,6.0,Andeman,82400
+"['bar', 'restaurant']",7.2,Very Good,4.0,Wanderland,13000
+"['bar', 'restaurant']",,,,Andeman,12000
+"['intrnet', 'bar', 'swimmingpools']",8.8,Excellent,36.0,Wanderland,25000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Hallerson,43000
+"['bar', 'restaurant']",,,,Stokol,4000
+['restaurant'],6.4,Very Good,1.0,Wanderland,9900
+[],8.3,Excellent,4.0,Hallerson,35000
+"['bar', 'restaurant']",8.5,Excellent,4.0,Willsmian,10000
+['pool'],8.8,Excellent,1.0,Uberlandia,35000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,20.0,Machlessvile,143802
+['restaurant'],6.1,Very Good,24.0,Machlessvile,5000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,6.0,Stokol,12000
+"['bar', 'restaurant']",2.0,Fair,1.0,Wanderland,4500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.5,Very Good,42.0,Stokol,18480
+['restaurant'],4.9,Good,4.0,Uberlandia,6000
+"['bar', 'restaurant']",6.3,Very Good,17.0,Hallerson,7000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.2,Very Good,23.0,Wanderland,24500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,46.0,Willsmian,23000
+"['intrnet', 'bar']",7.4,Very Good,5.0,Stokol,20000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.4,Excellent,226.0,Stokol,43000
+"['intrnet', 'bar', 'restaurant']",8.0,Excellent,1.0,Machlessvile,25000
+"['internet', 'bar', 'swimmingpools']",8.8,Excellent,36.0,Stokol,25000
+['bar'],4.2,Good,5.0,Uberlandia,8000
+"['restaurant', 'swimmingpools']",8.8,Excellent,1.0,Ubisville,8000
+"['bar', 'restaurant']",6.4,Very Good,5.0,Hallerson,6000
+"['internet', 'bar', 'swimmingpools', 'gym']",5.5,Good,8.0,Andeman,7000
+"['intrnet', 'restaurant']",7.2,Very Good,1.0,Andeman,19000
+"['bar', 'restaurant']",6.6,Very Good,7.0,Uberlandia,10000
+['restaurant'],7.1,Very Good,68.0,Machlessvile,20000
+"['intrnet', 'bar', 'restaurant']",7.9,Very Good,10.0,Uberlandia,59000
+"['bar', 'restaurant']",6.5,Very Good,12.0,Uberlandia,10000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Andeman,25000
+['restaurant'],6.0,Very Good,79.0,Wanderland,5500
+['restaurant'],4.9,Good,4.0,Machlessvile,6000
+[],,,,Hallerson,4000
+"['bar', 'restaurant']",,,,Uberlandia,8000
+"['internet', 'bar', 'pool', 'gym']",6.4,Very Good,40.0,Willsmian,14000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",,,,Stokol,100000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,36.0,Andeman,19000
+"['internet', 'bar', 'restaurant', 'pool']",8.7,Excellent,17.0,Andeman,60000
+['restaurant'],,,,Ubisville,13160
+"['bar', 'restaurant']",6.8,Very Good,3.0,Wanderland,23000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,351.0,Machlessvile,30000
+['restaurant'],8.6,Excellent,7.0,Stokol,15500
+['bar'],7.4,Very Good,43.0,Hallerson,11500
+"['bar', 'restaurant']",,,,Hallerson,3000
+"['bar', 'restaurant']",8.0,Excellent,6.0,Machlessvile,20000
+"['bar', 'restaurant']",,,,Uberlandia,1700
+"['intrnet', 'bar', 'restaurant']",8.6,Excellent,2.0,Stokol,9000
+"['bar', 'restaurant']",6.2,Very Good,10.0,Willsmian,4000
+"['bar', 'restaurant']",4.9,Good,5.0,Willsmian,4400
+"['internet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Machlessvile,20000
+"['bar', 'restaurant']",8.5,Excellent,5.0,Andeman,3500
+[],,,,Stokol,2000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",2.4,Fair,4.0,Uberlandia,8000
+"['internet', 'bar', 'restaurant']",8.4,Excellent,1.0,Uberlandia,14000
+"['intrnet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Hallerson,40000
+"['bar', 'restaurant']",7.7,Very Good,40.0,Hallerson,20000
+"['bar', 'restaurant']",,,,Andeman,4000
+"['bar', 'restaurant']",,,,Hallerson,1700
+['intrnet'],7.7,Very Good,10.0,Wanderland,5000
+"['bar', 'restaurant']",7.4,Very Good,5.0,Uberlandia,15000
+"['intrnet', 'bar', 'restaurant']",4.4,Good,1.0,Stokol,6700
+"['internet', 'bar', 'restaurant']",6.8,Very Good,21.0,Ubisville,8800
+"['internet', 'bar', 'restaurant', 'swimmingpools']",,,,Stokol,19550
+[],,,,Stokol,1800
+"['internet', 'restaurant', 'swimmingpools']",6.5,Very Good,8.0,Hallerson,16000
+"['bar', 'restaurant']",8.0,Excellent,4.0,Andeman,9000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,10.0,Ubisville,10000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Hallerson,92000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,21.0,Willsmian,8800
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,125.0,Uberlandia,9800
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Willsmian,92000
+"['intrnet', 'bar', 'restaurant', 'pool']",,,,Wanderland,15000
+"['bar', 'swimmingpools', 'gym']",9.5,Excellent,4.0,Stokol,14997
+"['intrnet', 'restaurant', 'gym']",5.6,Good,4.0,Ubisville,13000
+"['intrnet', 'swimmingpools', 'gym']",,,,Uberlandia,64600
+['restaurant'],,,,Hallerson,14000
+"['bar', 'restaurant']",7.6,Very Good,3.0,Hallerson,5000
+"['bar', 'restaurant']",6.0,Very Good,8.0,Uberlandia,8500
+"['intrnet', 'bar', 'restaurant', 'gym']",5.1,Good,4.0,Ubisville,9500
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,125.0,Stokol,9800
+['restaurant'],6.1,Very Good,24.0,Wanderland,5000
+['restaurant'],,,,Andeman,2300
+[],,,,Andeman,12500
+"['internet', 'bar', 'restaurant']",7.0,Very Good,23.0,Stokol,20000
+"['bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,351.0,Stokol,30000
+['restaurant'],5.8,Good,4.0,Stokol,3500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.6,Excellent,8.0,Machlessvile,108900
+['restaurant'],6.4,Very Good,1.0,Stokol,9900
+"['bar', 'restaurant']",5.8,Good,43.0,Hallerson,6000
+"['bar', 'restaurant']",9.2,Excellent,2.0,Wanderland,13350
+['restaurant'],6.4,Very Good,1.0,Uberlandia,9900
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Hallerson,30500
+"['internet', 'bar', 'restaurant']",,,,Hallerson,54450
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Uberlandia,9750
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.7,Very Good,32.0,Machlessvile,55537
+"['bar', 'restaurant']",6.0,Very Good,1.0,Andeman,7900
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Wanderland,30000
+[],,,,Machlessvile,3900
+"['internet', 'bar', 'restaurant', 'pool']",8.0,Excellent,7.0,Hallerson,6000
+"['intrnet', 'bar', 'restaurant']",,,,Stokol,7000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,14.0,Stokol,30000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",,,,Stokol,14000
+"['intrnet', 'restaurant', 'pool']",6.3,Very Good,14.0,Stokol,15000
+"['bar', 'restaurant']",8.0,Excellent,4.0,Willsmian,9000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",5.0,Good,10.0,Stokol,35000
+"['intrnet', 'bar', 'restaurant']",,,,Willsmian,15000
+"['bar', 'restaurant']",,,,Ubisville,13000
+['bar'],7.9,Very Good,3.0,Hallerson,15000
+[],,,,Wanderland,3500
+[],,,,Machlessvile,1500
+"['bar', 'restaurant']",7.7,Very Good,40.0,Stokol,20000
+['restaurant'],8.2,Excellent,7.0,Andeman,4000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.4,Excellent,226.0,Machlessvile,43000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",6.1,Very Good,8.0,Andeman,8000
+[],,,,Hallerson,3500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,3.0,Ubisville,8000
+"['internet', 'bar', 'restaurant', 'pool']",7.8,Very Good,5.0,Machlessvile,25000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,26.0,Hallerson,10000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",5.0,Good,10.0,Wanderland,35000
+"['internet', 'restaurant']",8.0,Excellent,2.0,Wanderland,18000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,125.0,Hallerson,9800
+"['bar', 'restaurant']",8.0,Excellent,2.0,Willsmian,5000
+"['intrnet', 'restaurant', 'swimmingpools']",6.5,Very Good,8.0,Wanderland,16000
+['restaurant'],7.1,Very Good,12.0,Machlessvile,20000
+['restaurant'],7.4,Very Good,12.0,Wanderland,10000
+['restaurant'],,,,Wanderland,8500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",,,,Hallerson,7000
+"['bar', 'restaurant']",7.2,Very Good,9.0,Hallerson,15650
+"['internet', 'bar', 'restaurant', 'swimmingpools']",,,,Wanderland,19550
+"['internet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Machlessvile,25800
+['bar'],,,,Machlessvile,4500
+"['internet', 'bar', 'restaurant']",6.7,Very Good,1.0,Wanderland,3000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,11.0,Hallerson,15000
+"['intrnet', 'restaurant', 'pool']",7.5,Very Good,154.0,Willsmian,20000
+"['bar', 'restaurant', 'pool']",6.8,Very Good,1.0,Stokol,11150
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Wanderland,36000
+"['bar', 'restaurant', 'pool', 'gym']",8.6,Excellent,8.0,Stokol,108900
+"['bar', 'swimmingpools', 'gym']",8.6,Excellent,4.0,Willsmian,12800
+"['restaurant', 'pool', 'gym']",6.2,Very Good,30.0,Uberlandia,17999
+"['internet', 'bar', 'restaurant', 'pool']",7.5,Very Good,40.0,Hallerson,16500
+"['bar', 'restaurant', 'swimmingpools']",7.1,Very Good,7.0,Willsmian,12500
+"['bar', 'restaurant']",,,,Wanderland,12000
+"['bar', 'restaurant', 'gym']",7.1,Very Good,8.0,Machlessvile,6600
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,2.0,Stokol,56000
+"['internet', 'bar']",6.6,Very Good,14.0,Uberlandia,11000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,7.0,Stokol,24700
+"['bar', 'pool']",10.0,Excellent,1.0,Andeman,25000
+"['internet', 'bar', 'restaurant']",8.4,Excellent,1.0,Hallerson,14000
+"['intrnet', 'bar', 'restaurant', 'pool']",7.8,Very Good,24.0,Andeman,52875
+"['bar', 'restaurant', 'pool']",6.8,Very Good,1.0,Wanderland,11150
+"['bar', 'restaurant']",6.0,Very Good,8.0,Andeman,8500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",6.1,Very Good,8.0,Wanderland,8000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.6,Excellent,6.0,Ubisville,23000
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Andeman,33000
+"['bar', 'restaurant']",8.8,Excellent,6.0,Willsmian,12500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,46.0,Machlessvile,23000
+"['bar', 'restaurant']",8.5,Excellent,5.0,Willsmian,3500
+"['internet', 'bar', 'restaurant']",8.0,Excellent,8.0,Ubisville,40000
+"['internet', 'bar', 'restaurant', 'gym']",7.5,Very Good,9.0,Andeman,25250
+['internet'],7.7,Very Good,18.0,Willsmian,20000
+"['intrnet', 'restaurant', 'pool']",5.9,Good,14.0,Stokol,17000
+"['intrnet', 'restaurant', 'swimmingpools']",8.2,Excellent,97.0,Willsmian,16000
+"['bar', 'restaurant']",6.4,Very Good,34.0,Uberlandia,5500
+"['intrnet', 'bar', 'restaurant']",5.8,Good,8.0,Andeman,6000
+['internet'],,,,Machlessvile,25000
+"['bar', 'restaurant']",3.2,Fair,2.0,Stokol,11040
+"['bar', 'restaurant']",3.6,Fair,1.0,Wanderland,3000
+[],8.2,Excellent,7.0,Stokol,6500
+"['internet', 'bar', 'restaurant', 'pool']",2.4,Fair,4.0,Wanderland,8000
+"['bar', 'restaurant']",5.6,Good,1.0,Uberlandia,4500
+"['internet', 'restaurant']",7.1,Very Good,13.0,Hallerson,20000
+"['internet', 'restaurant', 'pool']",5.9,Good,3.0,Uberlandia,6500
+[],,,,Wanderland,8000
+"['internet', 'bar']",8.8,Excellent,2.0,Andeman,20000
+['internet'],8.9,Excellent,11.0,Wanderland,18000
+"['intrnet', 'bar', 'restaurant']",8.2,Excellent,20.0,Stokol,20000
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,39.0,Willsmian,9200
+['restaurant'],,,,Uberlandia,2000
+"['bar', 'pool']",8.2,Excellent,152.0,Stokol,30000
+['bar'],,,,Stokol,25000
+['bar'],,,,Stokol,3500
+[],,,,Uberlandia,12500
+"['bar', 'restaurant']",7.0,Very Good,24.0,Uberlandia,12000
+"['bar', 'restaurant']",3.9,Fair,3.0,Andeman,7000
+[],,,,Andeman,3040
+"['internet', 'bar', 'restaurant', 'pool']",7.5,Very Good,40.0,Andeman,16500
+['restaurant'],7.1,Very Good,68.0,Hallerson,20000
+['restaurant'],6.0,Very Good,79.0,Stokol,5500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,6.0,Andeman,25000
+['restaurant'],7.2,Very Good,12.0,Uberlandia,9000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,16.0,Hallerson,17000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",9.8,Excellent,4.0,Uberlandia,64800
+"['bar', 'restaurant']",6.8,Very Good,3.0,Stokol,23000
+"['bar', 'restaurant', 'pool', 'gym']",6.1,Very Good,8.0,Stokol,8000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Wanderland,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,6.0,Hallerson,44203
+"['bar', 'restaurant']",6.4,Very Good,1.0,Wanderland,3500
+"['internet', 'bar', 'restaurant']",7.0,Very Good,14.0,Uberlandia,5000
+"['bar', 'restaurant', 'pool', 'gym']",7.9,Very Good,5.0,Willsmian,24000
+[],,,,Wanderland,4200
+"['internet', 'restaurant']",7.1,Very Good,2.0,Stokol,9500
+"['bar', 'restaurant']",7.6,Very Good,2.0,Uberlandia,10000
+"['internet', 'bar', 'restaurant']",7.1,Very Good,4.0,Hallerson,7500
+"['internet', 'bar', 'restaurant']",7.9,Very Good,10.0,Stokol,59000
+"['internet', 'restaurant']",7.1,Very Good,13.0,Stokol,20000
+"['bar', 'restaurant']",8.8,Excellent,1.0,Stokol,8000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,15.0,Hallerson,35000
+[],,,,Stokol,2000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.0,Excellent,25.0,Hallerson,25000
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Wanderland,20000
+['bar'],6.3,Very Good,3.0,Willsmian,7000
+"['bar', 'restaurant', 'pool']",,,,Uberlandia,12000
+"['intrnet', 'restaurant', 'pool']",9.1,Excellent,12.0,Hallerson,37200
+"['bar', 'restaurant']",8.4,Excellent,6.0,Hallerson,10000
+['bar'],7.4,Very Good,43.0,Ubisville,11500
+"['bar', 'restaurant']",6.3,Very Good,17.0,Machlessvile,7000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,39.0,Wanderland,15000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",9.3,Excellent,3.0,Wanderland,88600
+['restaurant'],,,,Wanderland,6175
+['bar'],2.8,Fair,1.0,Wanderland,5000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",,,,Stokol,30000
+"['bar', 'restaurant']",8.5,Excellent,3.0,Hallerson,8000
+"['bar', 'restaurant']",7.4,Very Good,5.0,Wanderland,15000
+"['intrnet', 'bar', 'pool']",8.8,Excellent,36.0,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant', 'pool']",7.5,Very Good,40.0,Willsmian,16500
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Stokol,17500
+"['bar', 'restaurant']",4.0,Good,8.0,Ubisville,2500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,40.0,Uberlandia,16500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Stokol,25000
+[],,,,Hallerson,3200
+"['restaurant', 'pool']",8.1,Excellent,3.0,Stokol,7000
+[],8.3,Excellent,4.0,Machlessvile,35000
+"['intrnet', 'restaurant', 'gym']",5.6,Good,4.0,Andeman,13000
+"['bar', 'restaurant']",8.8,Excellent,6.0,Hallerson,12500
+"['bar', 'restaurant', 'pool']",8.9,Excellent,3.0,Hallerson,20000
+['bar'],2.8,Fair,1.0,Stokol,5000
+[],6.4,Very Good,1.0,Stokol,10000
+"['bar', 'pool']",7.8,Very Good,26.0,Stokol,19000
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,12.0,Willsmian,6000
+[],,,,Wanderland,20000
+"['bar', 'restaurant']",6.3,Very Good,34.0,Wanderland,11500
+[],6.0,Very Good,43.0,Stokol,15000
+"['bar', 'restaurant']",7.8,Very Good,2.0,Uberlandia,11000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,46.0,Hallerson,23000
+[],,,,Stokol,17250
+"['bar', 'restaurant']",7.3,Very Good,6.0,Hallerson,6000
+['internet'],5.4,Good,13.0,Machlessvile,4000
+"['intrnet', 'bar', 'pool', 'gym']",8.2,Excellent,13.0,Uberlandia,32000
+['restaurant'],,,,Wanderland,5000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,38.0,Andeman,19000
+['bar'],,,,Stokol,5000
+"['bar', 'restaurant']",8.5,Excellent,3.0,Willsmian,8000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Stokol,15000
+[],,,,Wanderland,2500
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,14.0,Machlessvile,5000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,18.0,Willsmian,30000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.6,Very Good,12.0,Andeman,45000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Stokol,15000
+"['internet', 'bar', 'restaurant', 'pool']",,,,Hallerson,15000
+"['internet', 'bar', 'restaurant', 'pool']",,,,Hallerson,19550
+"['internet', 'restaurant']",,,,Andeman,14904
+"['bar', 'restaurant']",3.9,Fair,3.0,Hallerson,7000
+"['bar', 'restaurant']",6.0,Very Good,3.0,Uberlandia,8000
+"['intrnet', 'restaurant', 'swimmingpools']",6.5,Very Good,8.0,Andeman,16000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,11.0,Wanderland,15000
+['bar'],7.9,Very Good,3.0,Stokol,15000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,31.0,Wanderland,14000
+"['internet', 'bar', 'restaurant']",6.3,Very Good,30.0,Stokol,22000
+"['internet', 'bar', 'restaurant']",9.1,Excellent,3.0,Andeman,8000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Wanderland,15000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,2.0,Hallerson,20000
+['swimmingpools'],8.2,Excellent,6.0,Machlessvile,30000
+"['restaurant', 'gym']",,,,Uberlandia,36000
+[],9.0,Excellent,1.0,Stokol,2700
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,23.0,Willsmian,17000
+"['bar', 'restaurant']",6.7,Very Good,50.0,Wanderland,18000
+[],,,,Machlessvile,4200
+"['internet', 'restaurant']",7.1,Very Good,13.0,Andeman,20000
+"['internet', 'bar', 'restaurant', 'pool']",5.8,Good,6.0,Wanderland,25000
+"['bar', 'restaurant']",,,,Willsmian,1700
+"['bar', 'restaurant']",6.7,Very Good,29.0,Stokol,10000
+"['internet', 'bar', 'restaurant', 'pool']",10.0,Excellent,2.0,Hallerson,25000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Wanderland,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,16.0,Ubisville,17000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,11.0,Ubisville,27000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",10.0,Excellent,2.0,Wanderland,25000
+"['bar', 'restaurant']",6.6,Very Good,26.0,Andeman,6000
+[],,,,Uberlandia,2500
+['restaurant'],6.5,Very Good,2.0,Wanderland,5200
+"['intrnet', 'restaurant']",8.0,Excellent,2.0,Machlessvile,18000
+"['internet', 'bar', 'restaurant', 'pool']",10.0,Excellent,2.0,Machlessvile,25000
+"['bar', 'restaurant', 'gym']",7.9,Very Good,3.0,Wanderland,48000
+"['bar', 'restaurant']",5.6,Good,1.0,Andeman,5400
+[],,,,Wanderland,3900
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,13.0,Andeman,20000
+"['bar', 'restaurant', 'swimmingpools']",5.2,Good,28.0,Stokol,40326
+"['bar', 'restaurant']",8.4,Excellent,3.0,Uberlandia,12000
+"['bar', 'restaurant']",8.1,Excellent,36.0,Willsmian,3800
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,35.0,Hallerson,67000
+"['internet', 'bar', 'restaurant', 'pool']",8.7,Excellent,17.0,Willsmian,60000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,3.0,Stokol,8000
+"['bar', 'restaurant']",7.6,Very Good,9.0,Andeman,9000
+"['internet', 'restaurant', 'pool']",5.9,Good,3.0,Andeman,6500
+"['internet', 'restaurant']",7.2,Very Good,30.0,Uberlandia,20000
+"['internet', 'restaurant']",7.5,Very Good,4.0,Hallerson,10500
+[],7.0,Very Good,1.0,Andeman,3700
+['restaurant'],6.0,Very Good,79.0,Wanderland,5500
+[],,,,Willsmian,3900
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,6.0,Wanderland,25000
+[],,,,Hallerson,6000
+"['internet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Andeman,15000
+[],,,,Hallerson,2500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.7,Very Good,14.0,Andeman,18000
+"['bar', 'restaurant']",,,,Machlessvile,3000
+"['bar', 'restaurant']",,,,Wanderland,7000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,2.0,Stokol,37250
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,10.0,Uberlandia,63000
+"['internet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Uberlandia,20000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,7.0,Wanderland,6500
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Uberlandia,24500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,40.0,Stokol,16500
+[],,,,Stokol,8000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,6.0,Uberlandia,30000
+"['bar', 'pool']",10.0,Excellent,1.0,Uberlandia,25000
+[],,,,Machlessvile,38500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,11.0,Stokol,30000
+"['bar', 'restaurant']",,,,Willsmian,13000
+"['bar', 'restaurant']",6.5,Very Good,7.0,Willsmian,4500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Andeman,30500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Hallerson,30500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,23.0,Ubisville,28000
+"['bar', 'restaurant']",7.3,Very Good,7.0,Andeman,13500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,17.0,Hallerson,60000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,7.0,Hallerson,12500
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Machlessvile,60500
+"['internet', 'restaurant']",7.2,Very Good,30.0,Andeman,20000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,18.0,Stokol,30000
+"['intrnet', 'bar', 'restaurant']",7.8,Very Good,12.0,Machlessvile,9000
+[],,,,Uberlandia,38500
+"['internet', 'bar', 'pool', 'gym']",5.5,Good,8.0,Wanderland,7000
+"['internet', 'bar']",8.8,Excellent,2.0,Uberlandia,20000
+"['internet', 'bar', 'pool']",8.8,Excellent,36.0,Stokol,25000
+"['intrnet', 'bar', 'restaurant']",,,,Wanderland,9000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",10.0,Excellent,1.0,Machlessvile,15000
+['bar'],,,,Hallerson,3500
+[],,,,Willsmian,2800
+"['bar', 'restaurant']",8.0,Excellent,6.0,Andeman,11500
+"['internet', 'bar', 'restaurant', 'pool']",7.9,Very Good,24.0,Uberlandia,50000
+"['bar', 'restaurant']",,,,Andeman,1700
+"['bar', 'restaurant']",,,,Wanderland,4000
+['restaurant'],7.2,Very Good,12.0,Willsmian,9000
+['bar'],,,,Stokol,6000
+[],,,,Uberlandia,5000
+"['intrnet', 'bar', 'restaurant']",6.4,Very Good,16.0,Wanderland,10000
+['swimmingpools'],,,,Hallerson,20000
+"['bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,351.0,Hallerson,30000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.3,Very Good,23.0,Uberlandia,28000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Hallerson,25000
+"['internet', 'bar', 'restaurant', 'pool']",7.7,Very Good,14.0,Andeman,18000
+"['internet', 'bar']",6.6,Very Good,14.0,Stokol,11000
+"['restaurant', 'swimmingpools']",8.8,Excellent,1.0,Andeman,8000
+['swimmingpools'],,,,Wanderland,25000
+"['internet', 'restaurant', 'pool']",5.0,Good,2.0,Uberlandia,15000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Hallerson,20000
+"['intrnet', 'restaurant', 'pool']",6.5,Very Good,8.0,Machlessvile,16000
+"['bar', 'restaurant']",6.4,Very Good,5.0,Stokol,6000
+"['bar', 'pool']",10.0,Excellent,1.0,Willsmian,25000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,11.0,Ubisville,15000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.1,Good,13.0,Stokol,88800
+"['bar', 'restaurant']",8.0,Excellent,6.0,Uberlandia,20000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,351.0,Uberlandia,30000
+"['bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,17.0,Stokol,16200
+"['bar', 'restaurant']",6.3,Very Good,34.0,Machlessvile,11500
+[],,,,Andeman,53475
+['bar'],7.6,Very Good,1.0,Wanderland,5000
+['restaurant'],,,,Uberlandia,13160
+"['intrnet', 'bar', 'restaurant', 'pool']",9.8,Excellent,4.0,Willsmian,64800
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.8,Very Good,28.0,Stokol,49500
+['bar'],9.6,Excellent,2.0,Wanderland,8000
+"['bar', 'restaurant']",5.6,Good,2.0,Hallerson,4000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,11.0,Andeman,27000
+[],,,,Andeman,17000
+[],,,,Uberlandia,2000
+"['internet', 'bar', 'restaurant']",6.2,Very Good,7.0,Ubisville,7500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.2,Good,3.0,Hallerson,26875
+"['internet', 'restaurant']",4.9,Good,30.0,Andeman,19720
+[],,,,Stokol,3700
+['restaurant'],6.1,Very Good,24.0,Hallerson,5000
+"['bar', 'restaurant']",7.3,Very Good,6.0,Uberlandia,6000
+"['intrnet', 'restaurant', 'pool']",6.3,Very Good,14.0,Ubisville,15000
+"['bar', 'restaurant']",6.7,Very Good,50.0,Ubisville,18000
+['bar'],5.8,Good,2.0,Andeman,25000
+['internet'],5.4,Good,13.0,Uberlandia,4000
+[],,,,Andeman,3200
+"['restaurant', 'swimmingpools', 'gym']",9.3,Excellent,4.0,Stokol,35000
+[],,,,Uberlandia,2800
+"['bar', 'restaurant']",7.3,Very Good,7.0,Uberlandia,13500
+['restaurant'],,,,Machlessvile,2000
+"['internet', 'bar', 'restaurant']",7.1,Very Good,3.0,Stokol,4000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.1,Good,13.0,Machlessvile,88800
+"['internet', 'bar', 'restaurant']",7.7,Very Good,8.0,Wanderland,20000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Stokol,10000
+"['internet', 'pool', 'gym']",,,,Stokol,64600
+"['bar', 'restaurant']",3.9,Fair,3.0,Wanderland,7000
+"['bar', 'restaurant']",6.3,Very Good,17.0,Stokol,7000
+['restaurant'],6.1,Very Good,24.0,Stokol,5000
+"['intrnet', 'bar', 'restaurant']",6.9,Very Good,12.0,Wanderland,6000
+"['bar', 'restaurant']",,,,Stokol,6000
+['bar'],7.9,Very Good,12.0,Stokol,25000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Hallerson,17500
+[],9.0,Excellent,1.0,Wanderland,2700
+[],,,,Hallerson,5000
+"['intrnet', 'bar', 'restaurant']",2.5,Fair,4.0,Andeman,20000
+"['intrnet', 'bar', 'restaurant']",8.6,Excellent,2.0,Willsmian,9000
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Uberlandia,33000
+"['bar', 'restaurant', 'swimmingpools']",5.2,Good,28.0,Andeman,40326
+"['intrnet', 'bar', 'restaurant', 'gym']",5.1,Good,4.0,Willsmian,9500
+"['internet', 'restaurant', 'swimmingpools']",9.1,Excellent,12.0,Wanderland,37200
+['bar'],6.0,Very Good,1.0,Stokol,4000
+"['bar', 'swimmingpools', 'gym']",6.9,Very Good,13.0,Andeman,21000
+"['bar', 'restaurant']",5.6,Good,1.0,Wanderland,3000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Willsmian,15000
+['internet'],8.9,Excellent,11.0,Wanderland,18000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,6.0,Stokol,30000
+"['bar', 'restaurant']",,,,Andeman,7500
+"['swimmingpools', 'gym']",,,,Hallerson,16100
+"['bar', 'restaurant']",6.7,Very Good,29.0,Uberlandia,10000
+[],,,,Willsmian,3040
+['bar'],7.9,Very Good,12.0,Hallerson,25000
+[],6.2,Very Good,2.0,Stokol,3500
+"['bar', 'restaurant']",4.9,Good,3.0,Stokol,9000
+"['bar', 'restaurant']",,,,Stokol,13000
+[],,,,Hallerson,2800
+"['bar', 'restaurant']",5.8,Good,10.0,Andeman,3000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,15.0,Stokol,35000
+"['bar', 'restaurant']",8.5,Excellent,4.0,Uberlandia,10000
+"['internet', 'bar', 'restaurant']",,,,Stokol,5500
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Hallerson,33000
+"['bar', 'restaurant']",7.4,Very Good,4.0,Uberlandia,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,35.0,Wanderland,67000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,6.0,Willsmian,25000
+"['intrnet', 'bar']",6.7,Very Good,27.0,Willsmian,12000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,20.0,Andeman,143802
+"['intrnet', 'restaurant', 'pool']",5.0,Good,2.0,Andeman,15000
+"['internet', 'restaurant', 'swimmingpools']",7.5,Very Good,154.0,Andeman,20000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Machlessvile,10000
+['bar'],7.4,Very Good,43.0,Wanderland,11500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.7,Very Good,10.0,Uberlandia,40191
+"['bar', 'restaurant']",8.0,Excellent,6.0,Ubisville,20000
+"['bar', 'restaurant']",6.5,Very Good,7.0,Machlessvile,4500
+"['internet', 'bar', 'restaurant', 'pool']",7.9,Very Good,24.0,Uberlandia,50000
+"['internet', 'restaurant', 'pool']",6.5,Very Good,8.0,Stokol,16000
+"['internet', 'bar', 'restaurant']",7.2,Very Good,2.0,Andeman,56000
+"['internet', 'bar']",7.4,Very Good,5.0,Willsmian,20000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,6.0,Stokol,12000
+"['bar', 'restaurant', 'pool']",8.9,Excellent,3.0,Uberlandia,20000
+"['bar', 'restaurant']",6.6,Very Good,7.0,Andeman,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,8.0,Uberlandia,66500
+['pool'],,,,Hallerson,20000
+['restaurant'],,,,Willsmian,5405
+"['internet', 'bar', 'restaurant']",7.7,Very Good,125.0,Stokol,9800
+"['intrnet', 'bar', 'restaurant']",8.2,Excellent,20.0,Uberlandia,20000
+"['bar', 'restaurant']",7.0,Very Good,24.0,Andeman,12000
+"['bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,17.0,Wanderland,16200
+['restaurant'],,,,Ubisville,7000
+"['restaurant', 'swimmingpools']",,,,Stokol,29000
+"['bar', 'restaurant']",8.4,Excellent,6.0,Ubisville,10000
+"['bar', 'restaurant']",6.3,Very Good,17.0,Uberlandia,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,6.0,Machlessvile,12000
+"['bar', 'restaurant']",,,,Ubisville,6000
+['internet'],7.7,Very Good,10.0,Uberlandia,5000
+['bar'],,,,Stokol,5000
+"['bar', 'restaurant']",8.5,Excellent,3.0,Stokol,8000
+"['restaurant', 'swimmingpools']",8.6,Excellent,4.0,Stokol,24000
+['pool'],8.8,Excellent,1.0,Andeman,35000
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Hallerson,60500
+"['internet', 'bar', 'restaurant']",7.4,Very Good,18.0,Machlessvile,15000
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Wanderland,11500
+"['internet', 'bar', 'restaurant']",7.4,Very Good,26.0,Machlessvile,10000
+"['bar', 'restaurant']",4.9,Good,3.0,Willsmian,9000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Wanderland,4000
+[],10.0,Excellent,1.0,Wanderland,20000
+[],,,,Uberlandia,7500
+"['internet', 'bar', 'restaurant']",7.4,Very Good,26.0,Andeman,10000
+['bar'],5.8,Good,2.0,Machlessvile,25000
+"['internet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Andeman,20000
+"['bar', 'restaurant']",8.3,Excellent,5.0,Wanderland,8000
+"['bar', 'restaurant']",7.3,Very Good,13.0,Andeman,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",10.0,Excellent,1.0,Machlessvile,36000
+"['internet', 'restaurant', 'pool']",6.4,Very Good,2.0,Wanderland,6000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.9,Excellent,19.0,Uberlandia,35000
+"['bar', 'restaurant']",3.6,Fair,1.0,Ubisville,3000
+[],6.0,Very Good,43.0,Stokol,15000
+"['intrnet', 'bar', 'restaurant', 'pool']",8.0,Excellent,25.0,Andeman,25000
+"['bar', 'restaurant']",8.5,Excellent,5.0,Uberlandia,3500
+"['internet', 'bar', 'restaurant']",8.0,Excellent,36.0,Andeman,19000
+"['internet', 'bar', 'restaurant']",,,,Stokol,20000
+['bar'],,,,Ubisville,5000
+"['intrnet', 'bar', 'restaurant']",5.8,Good,8.0,Stokol,6000
+"['internet', 'bar', 'restaurant']",,,,Wanderland,6000
+"['intrnet', 'bar', 'restaurant']",8.6,Excellent,2.0,Hallerson,9000
+"['bar', 'restaurant']",,,,Stokol,7452
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,14.0,Wanderland,30000
+[],5.6,Good,3.0,Stokol,14000
+['restaurant'],8.4,Excellent,4.0,Machlessvile,15000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,7.0,Uberlandia,14000
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Stokol,36000
+"['intrnet', 'bar']",7.7,Very Good,34.0,Uberlandia,12750
+"['internet', 'bar']",6.7,Very Good,10.0,Stokol,35000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Machlessvile,10000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Andeman,25000
+"['bar', 'restaurant', 'gym']",7.1,Very Good,8.0,Hallerson,6600
+"['internet', 'restaurant']",7.1,Very Good,13.0,Stokol,20000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,2.0,Stokol,20000
+"['bar', 'restaurant']",8.4,Excellent,1.0,Stokol,15000
+"['bar', 'restaurant']",,,,Stokol,8000
+"['bar', 'swimmingpools', 'gym']",6.9,Very Good,13.0,Willsmian,21000
+"['bar', 'restaurant']",6.3,Very Good,17.0,Ubisville,7000
+"['intrnet', 'bar', 'restaurant']",6.4,Very Good,16.0,Stokol,10000
+['bar'],,,,Uberlandia,3000
+['internet'],7.7,Very Good,10.0,Hallerson,5000
+['bar'],,,,Hallerson,6000
+[],5.4,Good,2.0,Stokol,3000
+['restaurant'],6.4,Very Good,1.0,Andeman,9900
+[],6.3,Very Good,46.0,Stokol,35000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,7.0,Wanderland,12500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,10.0,Willsmian,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,6.0,Andeman,25000
+"['restaurant', 'swimmingpools']",6.0,Very Good,3.0,Stokol,33000
+"['internet', 'bar', 'swimmingpools', 'gym']",9.6,Excellent,3.0,Willsmian,55000
+"['internet', 'bar', 'restaurant']",7.8,Very Good,12.0,Stokol,9000
+"['restaurant', 'swimmingpools']",6.2,Very Good,21.0,Uberlandia,19000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,16.0,Uberlandia,17000
+"['bar', 'restaurant']",9.4,Excellent,3.0,Uberlandia,20000
+[],,,,Ubisville,38500
+"['bar', 'restaurant']",5.8,Good,10.0,Willsmian,3000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,23.0,Willsmian,28000
+"['bar', 'restaurant']",9.4,Excellent,3.0,Stokol,20000
+[],,,,Andeman,4500
+"['intrnet', 'bar', 'restaurant']",,,,Willsmian,15000
+"['internet', 'bar', 'restaurant']",,,,Hallerson,15000
+['restaurant'],7.1,Very Good,68.0,Wanderland,20000
+['restaurant'],,,,Stokol,7000
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,39.0,Machlessvile,9200
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.9,Excellent,19.0,Stokol,35000
+"['bar', 'restaurant']",5.6,Good,2.0,Uberlandia,4000
+"['intrnet', 'bar', 'restaurant']",5.6,Good,50.0,Machlessvile,5000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,13.0,Wanderland,20000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,15.0,Wanderland,35000
+"['bar', 'restaurant', 'pool', 'gym']",6.1,Very Good,8.0,Hallerson,8000
+"['internet', 'bar', 'restaurant']",6.6,Very Good,16.0,Stokol,13000
+"['bar', 'restaurant']",6.6,Very Good,7.0,Stokol,10000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",6.3,Very Good,8.0,Hallerson,7000
+"['internet', 'bar', 'restaurant', 'gym']",,,,Willsmian,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,7.0,Wanderland,12500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.7,Very Good,14.0,Willsmian,18000
+"['bar', 'restaurant', 'swimmingpools']",6.7,Very Good,10.0,Hallerson,14000
+[],,,,Uberlandia,2500
+"['bar', 'restaurant']",7.8,Very Good,10.0,Andeman,7560
+['restaurant'],,,,Willsmian,2300
+"['internet', 'swimmingpools', 'gym']",,,,Willsmian,64600
+"['intrnet', 'restaurant', 'swimmingpools']",6.3,Very Good,14.0,Uberlandia,15000
+[],5.6,Good,3.0,Hallerson,14000
+"['bar', 'restaurant']",,,,Andeman,6000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",5.5,Good,3.0,Andeman,7700
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,8.0,Machlessvile,66500
+"['intrnet', 'restaurant', 'swimmingpools']",8.2,Excellent,97.0,Machlessvile,16000
+"['intrnet', 'bar', 'restaurant', 'gym']",10.0,Excellent,1.0,Ubisville,13000
+"['bar', 'restaurant', 'pool']",5.2,Good,28.0,Wanderland,40326
+"['bar', 'restaurant']",6.1,Very Good,4.0,Ubisville,6000
+"['internet', 'bar', 'restaurant', 'pool']",8.0,Excellent,25.0,Hallerson,25000
+"['bar', 'restaurant', 'swimmingpools']",7.3,Very Good,41.0,Hallerson,11000
+"['intrnet', 'restaurant']",8.0,Excellent,2.0,Stokol,18000
+"['intrnet', 'bar']",7.7,Very Good,34.0,Andeman,12750
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,38.0,Andeman,19000
+"['bar', 'restaurant']",4.9,Good,5.0,Hallerson,4400
+[],,,,Andeman,8000
+"['internet', 'bar', 'restaurant', 'pool']",7.4,Very Good,145.0,Willsmian,17000
+"['bar', 'restaurant']",8.4,Excellent,6.0,Uberlandia,10000
+['bar'],,,,Hallerson,4500
+"['restaurant', 'swimmingpools']",8.8,Excellent,1.0,Willsmian,8000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,13.0,Stokol,20000
+"['bar', 'restaurant']",5.6,Good,2.0,Stokol,4000
+"['internet', 'restaurant', 'pool']",5.0,Good,2.0,Wanderland,15000
+"['intrnet', 'bar', 'restaurant']",8.4,Excellent,1.0,Stokol,14000
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,8.0,Stokol,20000
+"['internet', 'restaurant', 'pool']",8.2,Excellent,97.0,Wanderland,16000
+"['internet', 'restaurant']",8.3,Excellent,6.0,Hallerson,25000
+"['internet', 'bar', 'restaurant']",6.7,Very Good,1.0,Stokol,3000
+"['internet', 'bar', 'pool', 'gym']",8.2,Excellent,13.0,Andeman,32000
+"['internet', 'bar', 'restaurant']",,,,Willsmian,7000
+"['internet', 'restaurant']",8.3,Excellent,6.0,Machlessvile,25000
+[],,,,Hallerson,38500
+"['bar', 'restaurant']",7.0,Very Good,24.0,Hallerson,12000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,11.0,Willsmian,27000
+"['bar', 'restaurant']",7.6,Very Good,9.0,Stokol,9000
+['bar'],8.7,Excellent,22.0,Hallerson,27000
+"['bar', 'swimmingpools']",7.9,Very Good,4.0,Andeman,18000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,1.0,Uberlandia,25000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Willsmian,10000
+[],6.3,Very Good,46.0,Hallerson,35000
+['bar'],4.2,Good,5.0,Hallerson,8000
+"['bar', 'restaurant']",5.8,Good,10.0,Uberlandia,3000
+[],6.4,Very Good,1.0,Machlessvile,10000
+"['bar', 'restaurant']",7.8,Very Good,4.0,Willsmian,10000
+"['bar', 'restaurant']",6.4,Very Good,5.0,Stokol,6000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,3.0,Willsmian,8000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,1.0,Wanderland,26500
+"['bar', 'restaurant']",3.9,Fair,3.0,Willsmian,7000
+"['internet', 'bar', 'restaurant', 'pool']",2.4,Fair,4.0,Stokol,8000
+[],,,,Ubisville,8000
+[],8.8,Excellent,1.0,Uberlandia,20000
+"['intrnet', 'swimmingpools', 'gym']",7.6,Very Good,2.0,Wanderland,27000
+"['bar', 'restaurant', 'pool']",5.2,Good,28.0,Uberlandia,40326
+"['swimmingpools', 'gym']",,,,Willsmian,16100
+"['bar', 'restaurant']",,,,Stokol,4000
+"['bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,6.0,Uberlandia,12000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.3,Excellent,11.0,Stokol,27000
+"['bar', 'restaurant', 'gym']",6.9,Very Good,6.0,Hallerson,17200
+"['bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,2.0,Uberlandia,20000
+"['internet', 'restaurant', 'swimmingpools']",7.5,Very Good,154.0,Hallerson,20000
+"['internet', 'bar', 'restaurant']",6.3,Very Good,30.0,Hallerson,22000
+['restaurant'],,,,Willsmian,4175
+['restaurant'],4.9,Good,4.0,Willsmian,6000
+[],,,,Stokol,1800
+['bar'],7.6,Very Good,1.0,Stokol,5000
+"['internet', 'restaurant']",7.1,Very Good,13.0,Andeman,20000
+[],8.4,Excellent,1.0,Stokol,48200
+['bar'],5.8,Good,2.0,Uberlandia,25000
+"['bar', 'restaurant']",6.2,Very Good,8.0,Stokol,14500
+"['internet', 'bar', 'restaurant']",8.6,Excellent,2.0,Wanderland,9000
+['restaurant'],8.3,Excellent,20.0,Andeman,11000
+"['bar', 'restaurant', 'pool']",7.3,Very Good,41.0,Andeman,11000
+"['bar', 'restaurant']",6.0,Very Good,8.0,Hallerson,8500
+[],,,,Hallerson,12500
+"['internet', 'bar', 'restaurant', 'gym']",9.4,Excellent,5.0,Wanderland,12000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",,,,Uberlandia,19550
+['restaurant'],7.1,Very Good,68.0,Andeman,20000
+"['restaurant', 'pool']",8.0,Excellent,34.0,Stokol,23000
+[],,,,Willsmian,3700
+"['internet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Machlessvile,40000
+"['bar', 'swimmingpools', 'gym']",9.5,Excellent,4.0,Willsmian,14997
+"['bar', 'restaurant']",6.1,Very Good,4.0,Willsmian,6000
+"['bar', 'restaurant']",7.6,Very Good,3.0,Stokol,5000
+['bar'],4.3,Good,3.0,Andeman,2250
+"['intrnet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Uberlandia,40000
+"['intrnet', 'bar', 'restaurant']",7.0,Very Good,20.0,Uberlandia,143802
+['restaurant'],7.2,Very Good,3.0,Andeman,5500
+"['bar', 'restaurant', 'pool']",7.1,Very Good,7.0,Stokol,12500
+['bar'],,,,Machlessvile,3500
+[],6.3,Very Good,46.0,Uberlandia,35000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Wanderland,15000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.9,Excellent,19.0,Machlessvile,35000
+"['bar', 'restaurant']",6.1,Very Good,4.0,Wanderland,6000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,46.0,Stokol,23000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",2.4,Fair,4.0,Machlessvile,8000
+"['internet', 'bar', 'restaurant']",6.9,Very Good,12.0,Stokol,6000
+"['bar', 'restaurant']",8.0,Excellent,6.0,Hallerson,20000
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,36.0,Machlessvile,30000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,4.0,Andeman,69569
+"['bar', 'restaurant']",7.2,Very Good,9.0,Machlessvile,15650
+"['internet', 'restaurant', 'swimmingpools']",7.3,Very Good,25.0,Andeman,20000
+"['internet', 'bar', 'pool']",8.8,Excellent,36.0,Wanderland,25000
+"['bar', 'restaurant', 'pool', 'gym']",9.3,Excellent,3.0,Willsmian,88600
+"['intrnet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Hallerson,15000
+"['intrnet', 'bar', 'restaurant']",6.8,Very Good,94.0,Wanderland,17500
+"['bar', 'restaurant']",,,,Uberlandia,7452
+['restaurant'],,,,Machlessvile,7000
+"['bar', 'restaurant']",7.5,Very Good,11.0,Stokol,17500
+"['internet', 'bar', 'restaurant']",7.0,Very Good,20.0,Ubisville,143802
+['swimmingpools'],8.2,Excellent,6.0,Willsmian,30000
+"['internet', 'restaurant', 'swimmingpools']",7.3,Very Good,25.0,Hallerson,20000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,8.0,Andeman,40000
+"['bar', 'restaurant']",7.3,Very Good,9.0,Wanderland,13000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,17.0,Uberlandia,60000
+[],,,,Hallerson,4200
+"['bar', 'restaurant']",7.4,Very Good,4.0,Stokol,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,6.0,Hallerson,25000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",2.4,Fair,4.0,Andeman,8000
+"['internet', 'swimmingpools', 'gym']",7.6,Very Good,2.0,Hallerson,27000
+"['bar', 'pool', 'gym']",8.6,Excellent,4.0,Uberlandia,12800
+"['bar', 'restaurant']",5.6,Good,1.0,Uberlandia,5400
+"['internet', 'bar', 'restaurant', 'pool']",7.5,Very Good,35.0,Andeman,67000
+"['bar', 'restaurant']",6.6,Very Good,26.0,Stokol,6000
+"['internet', 'restaurant']",8.0,Excellent,7.0,Stokol,44000
+"['bar', 'restaurant']",8.0,Excellent,6.0,Machlessvile,11500
+"['bar', 'pool']",8.2,Excellent,152.0,Wanderland,30000
+"['bar', 'restaurant']",2.0,Fair,1.0,Uberlandia,4500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.6,Very Good,12.0,Stokol,45000
+"['internet', 'restaurant', 'swimmingpools']",7.3,Very Good,25.0,Willsmian,20000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.2,Very Good,23.0,Willsmian,24500
+"['bar', 'restaurant', 'swimmingpools']",8.9,Excellent,3.0,Willsmian,20000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Hallerson,9750
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Machlessvile,9750
+"['bar', 'restaurant', 'gym']",5.7,Good,6.0,Hallerson,7350
+"['intrnet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Wanderland,15000
+"['internet', 'bar', 'restaurant']",4.4,Good,1.0,Hallerson,6700
+"['bar', 'restaurant']",6.0,Very Good,3.0,Hallerson,8000
+"['bar', 'restaurant']",7.8,Very Good,2.0,Hallerson,11000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,18.0,Uberlandia,15000
+"['internet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Willsmian,25800
+"['bar', 'restaurant', 'swimmingpools']",4.9,Good,6.0,Andeman,12850
+"['internet', 'bar', 'restaurant', 'pool']",7.8,Very Good,5.0,Hallerson,25000
+['bar'],,,,Hallerson,25000
+"['bar', 'restaurant']",,,,Uberlandia,6000
+['internet'],7.7,Very Good,18.0,Uberlandia,20000
+"['internet', 'bar', 'restaurant']",8.2,Excellent,20.0,Hallerson,20000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,31.0,Machlessvile,14000
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Stokol,45000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,6.0,Wanderland,44203
+[],,,,Wanderland,12500
+"['internet', 'bar', 'pool', 'gym']",8.2,Excellent,13.0,Ubisville,32000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,10.0,Stokol,10000
+"['bar', 'restaurant']",6.5,Very Good,12.0,Andeman,10000
+"['bar', 'restaurant']",6.0,Very Good,8.0,Machlessvile,8500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,13.0,Wanderland,20000
+"['bar', 'restaurant']",7.3,Very Good,32.0,Andeman,13500
+['bar'],7.2,Very Good,1.0,Andeman,2500
+"['intrnet', 'bar']",6.9,Very Good,10.0,Stokol,18000
+"['internet', 'bar', 'restaurant']",9.6,Excellent,2.0,Wanderland,15000
+"['bar', 'restaurant']",7.1,Very Good,3.0,Stokol,9000
+"['internet', 'bar', 'pool', 'gym']",6.4,Very Good,40.0,Hallerson,14000
+['bar'],,,,Hallerson,6000
+"['bar', 'restaurant', 'gym']",5.7,Good,6.0,Stokol,7350
+"['restaurant', 'pool']",8.1,Excellent,3.0,Wanderland,7000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.9,Excellent,19.0,Stokol,35000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",5.1,Good,13.0,Wanderland,88800
+[],6.3,Very Good,46.0,Uberlandia,35000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,4.0,Stokol,49900
+"['intrnet', 'bar', 'restaurant', 'gym']",6.5,Very Good,32.0,Uberlandia,15000
+"['bar', 'pool']",8.2,Excellent,152.0,Andeman,30000
+"['restaurant', 'swimmingpools']",6.2,Very Good,21.0,Andeman,19000
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,36.0,Uberlandia,30000
+"['bar', 'restaurant']",,,,Machlessvile,3300
+"['bar', 'restaurant']",6.7,Very Good,29.0,Andeman,10000
+['intrnet'],7.7,Very Good,18.0,Uberlandia,20000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Willsmian,20000
+['bar'],7.9,Very Good,3.0,Willsmian,15000
+"['bar', 'restaurant']",8.1,Excellent,6.0,Stokol,82400
+"['bar', 'restaurant']",9.6,Excellent,2.0,Machlessvile,12800
+[],,,,Hallerson,53475
+"['bar', 'restaurant']",6.5,Very Good,12.0,Wanderland,10000
+['bar'],,,,Andeman,5000
+['bar'],,,,Wanderland,25000
+['bar'],9.6,Excellent,2.0,Andeman,8000
+"['bar', 'restaurant']",4.2,Good,4.0,Machlessvile,4500
+"['internet', 'bar', 'restaurant', 'pool']",7.2,Very Good,23.0,Machlessvile,24500
+['internet'],8.4,Excellent,3.0,Stokol,10000
+"['bar', 'restaurant']",6.8,Very Good,3.0,Uberlandia,23000
+"['intrnet', 'bar', 'restaurant']",7.4,Very Good,18.0,Ubisville,15000
+"['internet', 'bar', 'restaurant']",9.6,Excellent,2.0,Stokol,15000
+"['internet', 'bar', 'restaurant']",7.9,Very Good,10.0,Wanderland,59000
+"['bar', 'restaurant']",,,,Uberlandia,3600
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,10.0,Stokol,10000
+"['intrnet', 'bar', 'swimmingpools', 'gym']",9.6,Excellent,3.0,Uberlandia,55000
+[],,,,Hallerson,2500
+"['bar', 'restaurant']",8.0,Excellent,6.0,Hallerson,11500
+"['bar', 'pool']",10.0,Excellent,1.0,Machlessvile,25000
+"['bar', 'restaurant']",4.9,Good,3.0,Uberlandia,9000
+"['internet', 'restaurant', 'swimmingpools']",9.1,Excellent,12.0,Willsmian,37200
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,8.0,Ubisville,66500
+"['bar', 'restaurant']",6.3,Very Good,17.0,Wanderland,7000
+"['intrnet', 'bar', 'restaurant']",5.6,Good,50.0,Stokol,5000
+"['intrnet', 'bar', 'restaurant', 'gym']",10.0,Excellent,1.0,Wanderland,13000
+"['intrnet', 'bar', 'restaurant', 'pool']",10.0,Excellent,1.0,Willsmian,15000
+"['bar', 'restaurant']",,,,Machlessvile,2000
+['bar'],,,,Machlessvile,5000
+['bar'],,,,Andeman,3500
+"['intrnet', 'bar', 'restaurant']",,,,Andeman,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.0,Good,10.0,Hallerson,35000
+"['intrnet', 'restaurant']",4.9,Good,30.0,Hallerson,19720
+"['internet', 'restaurant', 'pool', 'gym']",9.1,Excellent,3.0,Uberlandia,25000
+"['internet', 'bar', 'restaurant']",8.6,Excellent,2.0,Andeman,9000
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,10.0,Hallerson,63000
+"['bar', 'restaurant']",8.0,Excellent,1.0,Andeman,7000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,7.0,Andeman,24700
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,6.0,Stokol,25000
+"['bar', 'restaurant']",8.4,Excellent,6.0,Andeman,10000
+['internet'],8.9,Excellent,11.0,Hallerson,18000
+['restaurant'],,,,Andeman,4175
+"['internet', 'restaurant']",8.0,Excellent,7.0,Wanderland,44000
+"['bar', 'restaurant', 'pool']",7.1,Very Good,7.0,Ubisville,12500
+"['internet', 'restaurant', 'pool', 'gym']",9.1,Excellent,3.0,Machlessvile,25000
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,10.0,Machlessvile,63000
+"['bar', 'restaurant']",6.0,Very Good,8.0,Ubisville,8500
+['bar'],,,,Wanderland,6000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Stokol,92000
+[],,,,Hallerson,2000
+"['bar', 'restaurant']",7.3,Very Good,7.0,Stokol,13500
+"['bar', 'restaurant']",5.0,Good,4.0,Uberlandia,3500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",5.0,Good,10.0,Andeman,35000
+[],,,,Machlessvile,2500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.6,Excellent,8.0,Uberlandia,108900
+"['bar', 'restaurant']",6.3,Very Good,34.0,Andeman,11500
+"['bar', 'restaurant']",8.1,Excellent,18.0,Willsmian,15500
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,38.0,Hallerson,19000
+"['bar', 'restaurant']",,,,Wanderland,6000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",5.7,Good,37.0,Uberlandia,30000
+[],,,,Stokol,6000
+"['internet', 'bar']",7.4,Very Good,40.0,Stokol,13000
+"['bar', 'restaurant']",,,,Machlessvile,4500
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.7,Very Good,46.0,Ubisville,23000
+['restaurant'],,,,Andeman,5000
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Wanderland,60500
+"['internet', 'bar', 'restaurant']",6.3,Very Good,12.0,Wanderland,15000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.6,Excellent,8.0,Willsmian,108900
+['bar'],7.6,Very Good,1.0,Hallerson,5000
+[],2.3,Fair,2.0,Hallerson,3200
+"['internet', 'restaurant']",4.9,Good,30.0,Willsmian,19720
+['bar'],7.2,Very Good,1.0,Wanderland,2500
+"['internet', 'bar', 'restaurant']",,,,Willsmian,10000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,8.0,Stokol,66500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,8.0,Willsmian,66500
+[],,,,Willsmian,30000
+"['bar', 'restaurant']",9.6,Excellent,1.0,Uberlandia,8000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.9,Excellent,19.0,Hallerson,35000
+"['bar', 'restaurant']",7.6,Very Good,2.0,Ubisville,10000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Machlessvile,25000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,11.0,Andeman,15000
+[],,,,Andeman,3795
+"['internet', 'bar', 'restaurant']",,,,Ubisville,15000
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Machlessvile,30500
+['restaurant'],,,,Willsmian,13160
+"['intrnet', 'bar', 'swimmingpools', 'gym']",6.4,Very Good,40.0,Machlessvile,14000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",6.8,Very Good,14.0,Ubisville,9750
+"['internet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Wanderland,25800
+"['bar', 'restaurant', 'swimmingpools']",7.9,Very Good,6.0,Ubisville,9000
+"['intrnet', 'bar', 'restaurant']",6.8,Very Good,21.0,Stokol,8800
+"['intrnet', 'restaurant']",,,,Wanderland,14904
+"['bar', 'restaurant']",6.7,Very Good,29.0,Andeman,10000
+"['internet', 'bar', 'restaurant']",8.0,Excellent,8.0,Hallerson,40000
+"['bar', 'restaurant']",8.1,Excellent,36.0,Uberlandia,3800
+"['bar', 'pool', 'gym']",8.6,Excellent,4.0,Machlessvile,12800
+['restaurant'],,,,Stokol,8500
+"['intrnet', 'restaurant', 'swimmingpools']",6.4,Very Good,2.0,Stokol,6000
+"['bar', 'restaurant']",7.2,Very Good,9.0,Stokol,15650
+"['bar', 'restaurant']",5.8,Good,10.0,Hallerson,3000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Uberlandia,10000
+"['internet', 'restaurant']",7.2,Very Good,30.0,Stokol,20000
+['restaurant'],8.2,Excellent,7.0,Stokol,4000
+"['bar', 'restaurant', 'pool', 'gym']",7.8,Very Good,351.0,Stokol,30000
+[],8.3,Excellent,4.0,Ubisville,35000
+[],2.3,Fair,2.0,Machlessvile,3200
+"['bar', 'restaurant', 'swimmingpools', 'gym']",9.3,Excellent,3.0,Ubisville,88600
+"['bar', 'restaurant']",6.4,Very Good,5.0,Wanderland,6000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.3,Excellent,6.0,Uberlandia,25000
+"['internet', 'bar', 'swimmingpools', 'gym']",6.9,Very Good,12.0,Uberlandia,20000
+"['internet', 'restaurant', 'swimmingpools']",5.9,Good,14.0,Andeman,17000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,11.0,Hallerson,30000
+"['pool', 'gym']",,,,Stokol,16100
+"['internet', 'bar', 'restaurant']",2.0,Fair,1.0,Wanderland,4000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,31.0,Willsmian,14000
+"['intrnet', 'bar', 'restaurant', 'pool']",8.7,Excellent,17.0,Hallerson,60000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.8,Very Good,28.0,Wanderland,49500
+[],,,,Hallerson,2000
+"['internet', 'bar', 'swimmingpools', 'gym']",8.2,Excellent,13.0,Stokol,32000
+"['bar', 'restaurant']",8.0,Excellent,3.0,Willsmian,11800
+"['intrnet', 'bar', 'restaurant', 'pool']",,,,Andeman,15000
+"['internet', 'restaurant']",7.8,Very Good,15.0,Stokol,17483
+[],8.4,Excellent,1.0,Hallerson,48200
+"['restaurant', 'pool', 'gym']",6.2,Very Good,30.0,Stokol,17999
+[],,,,Uberlandia,3040
+['intrnet'],,,,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant']",8.3,Excellent,18.0,Andeman,30000
+"['restaurant', 'gym']",5.6,Good,1.0,Wanderland,15500
+"['internet', 'restaurant']",8.3,Excellent,6.0,Ubisville,25000
+"['internet', 'bar', 'restaurant', 'pool']",2.4,Fair,4.0,Stokol,8000
+"['bar', 'restaurant']",,,,Willsmian,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.8,Excellent,2.0,Wanderland,20000
+[],6.4,Very Good,1.0,Stokol,10000
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,8.0,Machlessvile,20000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,18.0,Hallerson,30000
+"['bar', 'restaurant']",7.2,Very Good,9.0,Andeman,15650
+"['bar', 'restaurant', 'swimmingpools']",7.3,Very Good,41.0,Andeman,11000
+"['intrnet', 'bar', 'restaurant']",6.8,Very Good,4.0,Andeman,18000
+"['intrnet', 'bar', 'restaurant']",6.3,Very Good,12.0,Andeman,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.8,Very Good,5.0,Ubisville,25000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.9,Very Good,23.0,Andeman,17000
+"['bar', 'restaurant', 'pool']",7.3,Very Good,41.0,Stokol,11000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Wanderland,10000
+"['restaurant', 'gym']",,,,Willsmian,36000
+[],,,,Willsmian,4500
+[],6.0,Very Good,43.0,Hallerson,15000
+"['bar', 'restaurant']",6.7,Very Good,29.0,Stokol,10000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.7,Very Good,6.0,Uberlandia,44203
+"['bar', 'restaurant']",9.6,Excellent,2.0,Willsmian,12800
+['restaurant'],6.1,Very Good,24.0,Stokol,5000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",,,,Machlessvile,100000
+[],,,,Andeman,4000
+"['bar', 'restaurant', 'pool']",7.9,Very Good,6.0,Willsmian,9000
+"['internet', 'restaurant']",8.0,Excellent,7.0,Andeman,44000
+"['internet', 'restaurant', 'swimmingpools']",6.3,Very Good,14.0,Andeman,15000
+"['internet', 'bar', 'gym']",7.5,Very Good,16.0,Hallerson,17000
+"['internet', 'bar', 'restaurant']",8.2,Excellent,20.0,Ubisville,20000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Andeman,10000
+"['bar', 'restaurant']",7.8,Very Good,4.0,Stokol,10000
+"['internet', 'bar', 'restaurant']",8.3,Excellent,21.0,Machlessvile,12000
+"['bar', 'restaurant']",7.6,Very Good,9.0,Hallerson,9000
+"['bar', 'restaurant']",9.6,Excellent,3.0,Wanderland,9200
+['internet'],8.9,Excellent,11.0,Stokol,18000
+"['internet', 'restaurant']",4.9,Good,30.0,Machlessvile,19720
+[],2.3,Fair,2.0,Wanderland,3200
+"['bar', 'restaurant', 'pool', 'gym']",8.7,Excellent,5.0,Willsmian,33000
+['bar'],,,,Stokol,2500
+"['bar', 'restaurant', 'swimmingpools']",7.6,Very Good,2.0,Andeman,18000
+[],,,,Willsmian,17250
+"['bar', 'restaurant']",6.7,Very Good,50.0,Machlessvile,18000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",10.0,Excellent,2.0,Stokol,25000
+"['bar', 'restaurant']",5.6,Good,2.0,Wanderland,4000
+"['restaurant', 'swimmingpools']",8.1,Excellent,3.0,Hallerson,7000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,125.0,Wanderland,9800
+"['internet', 'bar', 'restaurant']",7.4,Very Good,18.0,Wanderland,15000
+"['internet', 'bar']",6.9,Very Good,10.0,Hallerson,18000
+"['bar', 'restaurant']",,,,Stokol,4000
+[],,,,Machlessvile,3200
+"['intrnet', 'bar', 'restaurant']",,,,Stokol,15000
+"['bar', 'restaurant']",8.4,Excellent,3.0,Willsmian,12000
+"['restaurant', 'pool']",,,,Wanderland,80500
+"['bar', 'restaurant']",8.9,Excellent,5.0,Uberlandia,17000
+"['bar', 'restaurant']",8.0,Excellent,1.0,Stokol,7000
+"['bar', 'restaurant']",5.5,Good,3.0,Stokol,10000
+['intrnet'],8.1,Excellent,57.0,Stokol,21500
+"['internet', 'bar', 'restaurant']",5.8,Good,8.0,Ubisville,6000
+['restaurant'],,,,Hallerson,7000
+"['bar', 'restaurant']",7.2,Very Good,2.0,Andeman,15000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,8.0,Hallerson,66500
+"['bar', 'restaurant']",8.5,Excellent,3.0,Wanderland,8000
+['restaurant'],,,,Hallerson,6175
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.1,Very Good,4.0,Wanderland,10000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.5,Excellent,11.0,Willsmian,30000
+"['bar', 'restaurant']",7.7,Very Good,40.0,Wanderland,20000
+"['bar', 'restaurant']",,,,Machlessvile,7500
+[],6.0,Very Good,43.0,Hallerson,15000
+['bar'],,,,Andeman,4500
+[],7.6,Very Good,1.0,Uberlandia,11000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,6.0,Uberlandia,25000
+"['bar', 'restaurant']",5.0,Good,4.0,Andeman,3500
+['swimmingpools'],8.8,Excellent,1.0,Machlessvile,35000
+"['intrnet', 'bar', 'restaurant']",9.1,Excellent,3.0,Wanderland,8000
+['restaurant'],4.9,Good,4.0,Wanderland,6000
+"['internet', 'bar', 'restaurant']",7.7,Very Good,8.0,Uberlandia,20000
+"['intrnet', 'bar', 'restaurant', 'gym']",9.4,Excellent,5.0,Ubisville,12000
+['bar'],,,,Wanderland,3500
+['bar'],5.8,Good,2.0,Willsmian,25000
+"['bar', 'restaurant']",7.3,Very Good,7.0,Machlessvile,13500
+"['restaurant', 'gym']",5.6,Good,1.0,Wanderland,15500
+[],,,,Stokol,3500
+"['bar', 'restaurant']",,,,Stokol,3000
+"['intrnet', 'restaurant', 'pool']",6.3,Very Good,14.0,Wanderland,15000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,15.0,Machlessvile,35000
+"['bar', 'restaurant']",8.3,Excellent,5.0,Hallerson,8000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.1,Very Good,4.0,Hallerson,10000
+['restaurant'],8.4,Excellent,4.0,Uberlandia,15000
+"['intrnet', 'bar', 'restaurant']",6.7,Very Good,1.0,Andeman,3000
+"['internet', 'restaurant', 'pool', 'gym']",9.1,Excellent,3.0,Stokol,25000
+"['bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,38.0,Hallerson,19000
+"['internet', 'bar']",6.7,Very Good,10.0,Hallerson,35000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,23.0,Hallerson,28000
+['restaurant'],,,,Willsmian,14000
+"['internet', 'bar']",6.9,Very Good,10.0,Wanderland,18000
+"['bar', 'restaurant']",8.8,Excellent,1.0,Ubisville,8000
+"['bar', 'restaurant']",6.9,Very Good,17.0,Hallerson,13500
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",6.7,Very Good,10.0,Wanderland,40191
+"['internet', 'bar', 'restaurant']",5.6,Good,50.0,Uberlandia,5000
+"['restaurant', 'pool']",6.2,Very Good,21.0,Hallerson,19000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Andeman,17500
+"['internet', 'bar', 'restaurant']",10.0,Excellent,1.0,Stokol,20000
+"['bar', 'restaurant']",8.3,Excellent,11.0,Uberlandia,15000
+"['bar', 'restaurant']",6.4,Very Good,34.0,Machlessvile,5500
+['restaurant'],7.1,Very Good,68.0,Uberlandia,20000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,35.0,Willsmian,67000
+"['bar', 'restaurant', 'pool', 'gym']",5.5,Good,3.0,Wanderland,7700
+"['internet', 'restaurant', 'swimmingpools']",8.2,Excellent,97.0,Andeman,16000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,6.0,Machlessvile,25000
+['restaurant'],6.5,Very Good,2.0,Stokol,5200
+"['bar', 'restaurant']",7.4,Very Good,50.0,Stokol,20000
+"['bar', 'restaurant']",4.3,Good,2.0,Wanderland,10000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,3.0,Andeman,8000
+['bar'],7.9,Very Good,12.0,Uberlandia,25000
+"['intrnet', 'bar', 'restaurant']",7.2,Very Good,39.0,Andeman,9200
+"['bar', 'restaurant']",7.3,Very Good,7.0,Ubisville,13500
+"['internet', 'bar', 'restaurant']",6.6,Very Good,16.0,Machlessvile,13000
+"['bar', 'restaurant']",7.3,Very Good,6.0,Andeman,6000
+"['bar', 'restaurant']",,,,Wanderland,2000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.0,Excellent,25.0,Uberlandia,25000
+['restaurant'],6.0,Very Good,79.0,Hallerson,5500
+"['internet', 'bar', 'restaurant']",7.0,Very Good,23.0,Uberlandia,20000
+"['bar', 'restaurant']",8.1,Excellent,36.0,Hallerson,3800
+"['bar', 'restaurant']",7.0,Very Good,24.0,Hallerson,12000
+"['bar', 'restaurant']",8.0,Excellent,3.0,Hallerson,11800
+"['bar', 'restaurant', 'swimmingpools']",7.9,Very Good,6.0,Machlessvile,9000
+"['internet', 'bar', 'restaurant']",,,,Stokol,15000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.3,Very Good,23.0,Andeman,28000
+"['bar', 'restaurant']",7.3,Very Good,13.0,Andeman,7000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,351.0,Andeman,30000
+"['internet', 'bar', 'restaurant']",9.4,Excellent,2.0,Wanderland,12000
+"['bar', 'restaurant']",8.9,Excellent,5.0,Willsmian,17000
+['restaurant'],,,,Stokol,2300
+"['bar', 'restaurant']",,,,Wanderland,5000
+['bar'],7.6,Very Good,1.0,Ubisville,5000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.3,Excellent,11.0,Hallerson,27000
+['bar'],,,,Hallerson,3500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.4,Very Good,145.0,Uberlandia,17000
+[],,,,Wanderland,8000
+"['intrnet', 'restaurant']",7.2,Very Good,30.0,Uberlandia,20000
+[],,,,Machlessvile,3500
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Stokol,25000
+"['restaurant', 'pool']",,,,Hallerson,10000
+"['restaurant', 'swimmingpools']",,,,Ubisville,29000
+[],,,,Andeman,2500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,4.0,Uberlandia,30500
+"['internet', 'bar', 'restaurant', 'swimmingpools']",5.8,Good,6.0,Uberlandia,25000
+"['bar', 'restaurant']",6.7,Very Good,50.0,Andeman,18000
+[],,,,Stokol,53475
+"['internet', 'bar', 'restaurant']",,,,Machlessvile,54450
+"['internet', 'bar', 'restaurant']",8.0,Excellent,8.0,Machlessvile,40000
+"['internet', 'restaurant', 'swimmingpools']",9.1,Excellent,12.0,Uberlandia,37200
+['restaurant'],,,,Wanderland,4175
+"['internet', 'swimmingpools', 'gym']",7.6,Very Good,2.0,Ubisville,27000
+"['bar', 'restaurant', 'pool', 'gym']",3.7,Fair,2.0,Willsmian,45000
+"['bar', 'restaurant']",7.0,Very Good,24.0,Stokol,12000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.7,Very Good,14.0,Wanderland,18000
+"['bar', 'restaurant']",6.0,Very Good,1.0,Willsmian,7900
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",8.8,Excellent,2.0,Willsmian,37250
+[],,,,Hallerson,2500
+"['bar', 'restaurant']",6.5,Very Good,7.0,Wanderland,4500
+[],,,,Hallerson,4025
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,125.0,Willsmian,9800
+"['bar', 'restaurant']",8.3,Excellent,5.0,Uberlandia,8000
+"['bar', 'restaurant']",9.4,Excellent,3.0,Wanderland,20000
+[],,,,Hallerson,3900
+"['bar', 'restaurant', 'pool']",5.2,Good,28.0,Ubisville,40326
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,7.0,Andeman,10000
+[],,,,Andeman,6000
+[],8.4,Excellent,1.0,Willsmian,48200
+['bar'],7.6,Very Good,1.0,Andeman,5000
+['internet'],8.1,Excellent,57.0,Uberlandia,21500
+[],,,,Andeman,7500
+"['bar', 'restaurant']",4.2,Good,4.0,Ubisville,4500
+"['intrnet', 'restaurant', 'gym']",5.6,Good,4.0,Machlessvile,13000
+"['bar', 'restaurant']",9.4,Excellent,3.0,Willsmian,20000
+"['swimmingpools', 'gym']",,,,Ubisville,16100
+"['internet', 'bar', 'restaurant', 'swimmingpools']",9.8,Excellent,4.0,Andeman,64800
+"['bar', 'pool']",8.2,Excellent,152.0,Stokol,30000
+[],,,,Willsmian,4500
+"['bar', 'restaurant']",7.3,Very Good,6.0,Ubisville,6000
+"['bar', 'restaurant']",7.8,Very Good,2.0,Machlessvile,11000
+"['bar', 'restaurant', 'gym']",6.9,Very Good,6.0,Wanderland,17200
+['restaurant'],,,,Stokol,14000
+"['swimmingpools', 'gym']",,,,Stokol,16100
+"['bar', 'restaurant']",,,,Stokol,3600
+"['bar', 'restaurant']",,,,Willsmian,2500
+"['internet', 'bar']",7.7,Very Good,34.0,Hallerson,12750
+"['bar', 'restaurant']",4.3,Good,2.0,Andeman,10000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,1.0,Andeman,17000
+"['internet', 'bar', 'restaurant']",,,,Hallerson,7000
+"['bar', 'restaurant', 'gym']",7.0,Very Good,18.0,Stokol,60500
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Stokol,36000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Uberlandia,43000
+[],,,,Stokol,3795
+"['internet', 'bar', 'restaurant', 'gym']",7.4,Very Good,28.0,Wanderland,40000
+"['bar', 'restaurant']",7.4,Very Good,50.0,Hallerson,20000
+"['internet', 'restaurant']",8.0,Excellent,2.0,Hallerson,18000
+"['bar', 'restaurant']",,,,Andeman,7452
+"['internet', 'swimmingpools', 'gym']",7.6,Very Good,2.0,Machlessvile,27000
+"['bar', 'restaurant', 'pool', 'gym']",7.0,Very Good,17.0,Uberlandia,16200
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",,,,Hallerson,100000
+['internet'],8.1,Excellent,57.0,Hallerson,21500
+['swimmingpools'],,,,Wanderland,20000
+"['internet', 'bar', 'restaurant', 'pool']",7.5,Very Good,40.0,Uberlandia,16500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",,,,Andeman,14000
+"['internet', 'bar', 'restaurant']",,,,Stokol,10000
+"['bar', 'restaurant']",8.0,Excellent,1.0,Uberlandia,7000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.1,Very Good,4.0,Stokol,10000
+['bar'],4.2,Good,5.0,Willsmian,8000
+['bar'],,,,Andeman,25000
+"['bar', 'restaurant']",,,,Willsmian,7500
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.7,Very Good,10.0,Andeman,40191
+"['intrnet', 'restaurant', 'swimmingpools']",6.5,Very Good,8.0,Willsmian,16000
+"['bar', 'restaurant', 'pool', 'gym']",6.0,Very Good,9.0,Andeman,35000
+[],,,,Machlessvile,4000
+['internet'],7.7,Very Good,18.0,Machlessvile,20000
+"['bar', 'restaurant']",8.4,Excellent,6.0,Stokol,10000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Uberlandia,25000
+"['bar', 'restaurant']",5.6,Good,1.0,Machlessvile,3000
+"['internet', 'restaurant']",4.9,Good,30.0,Hallerson,19720
+"['restaurant', 'gym']",,,,Wanderland,36000
+[],8.4,Excellent,1.0,Machlessvile,48200
+['restaurant'],,,,Willsmian,6175
+"['internet', 'restaurant']",7.5,Very Good,4.0,Machlessvile,10500
+['restaurant'],4.9,Good,4.0,Ubisville,6000
+"['internet', 'bar']",7.4,Very Good,40.0,Machlessvile,13000
+"['restaurant', 'pool']",8.0,Excellent,34.0,Wanderland,23000
+"['bar', 'restaurant', 'pool', 'gym']",5.7,Good,37.0,Stokol,30000
+"['restaurant', 'gym']",5.6,Good,1.0,Uberlandia,15500
+[],,,,Wanderland,4025
+"['internet', 'bar', 'restaurant']",6.8,Very Good,21.0,Uberlandia,8800
+[],,,,Uberlandia,53475
+"['internet', 'bar', 'restaurant']",,,,Stokol,7000
+"['bar', 'restaurant']",9.2,Excellent,2.0,Ubisville,13350
+['bar'],2.8,Fair,1.0,Andeman,5000
+['bar'],,,,Machlessvile,25000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.2,Very Good,10.0,Wanderland,63000
+"['internet', 'bar', 'restaurant']",6.9,Very Good,12.0,Machlessvile,6000
+"['bar', 'restaurant']",6.5,Very Good,7.0,Stokol,4500
+"['bar', 'swimmingpools']",6.4,Very Good,49.0,Stokol,20000
+"['internet', 'bar', 'restaurant']",7.9,Very Good,10.0,Willsmian,59000
+"['internet', 'bar', 'restaurant', 'gym']",7.2,Very Good,44.0,Andeman,30000
+[],,,,Stokol,2500
+"['bar', 'restaurant']",2.0,Fair,1.0,Stokol,4500
+"['bar', 'restaurant', 'pool', 'gym']",10.0,Excellent,1.0,Andeman,25000
+"['bar', 'restaurant']",8.4,Excellent,6.0,Willsmian,10000
+"['bar', 'restaurant']",7.1,Very Good,10.0,Ubisville,11000
+[],,,,Andeman,4025
+"['bar', 'restaurant']",4.2,Good,4.0,Stokol,4500
+"['intrnet', 'bar', 'restaurant', 'gym']",8.4,Excellent,10.0,Ubisville,25800
+"['bar', 'restaurant']",7.2,Very Good,2.0,Andeman,3000
+[],,,,Uberlandia,1500
+"['bar', 'restaurant']",8.0,Excellent,2.0,Wanderland,15000
+"['intrnet', 'bar', 'restaurant', 'pool']",10.0,Excellent,2.0,Wanderland,25000
+"['internet', 'bar', 'restaurant']",2.5,Fair,4.0,Hallerson,20000
+"['bar', 'swimmingpools']",6.4,Very Good,49.0,Andeman,20000
+[],6.3,Very Good,46.0,Machlessvile,35000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",7.5,Very Good,40.0,Wanderland,16500
+"['internet', 'bar', 'restaurant']",7.0,Very Good,14.0,Andeman,5000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.8,Very Good,14.0,Wanderland,9750
+"['intrnet', 'bar', 'restaurant']",,,,Machlessvile,7000
+['bar'],,,,Machlessvile,3500
+"['bar', 'restaurant']",6.8,Very Good,3.0,Andeman,23000
+"['bar', 'restaurant']",,,,Stokol,13000
+"['internet', 'bar']",6.7,Very Good,27.0,Stokol,12000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,6.0,Andeman,12000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,94.0,Uberlandia,17500
+"['bar', 'restaurant']",,,,Machlessvile,2500
+"['bar', 'restaurant']",3.6,Fair,1.0,Willsmian,3000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",8.5,Excellent,6.0,Hallerson,12000
+"['intrnet', 'bar', 'restaurant']",6.6,Very Good,16.0,Stokol,13000
+"['bar', 'restaurant']",7.0,Very Good,24.0,Willsmian,12000
+"['bar', 'restaurant']",8.8,Excellent,6.0,Uberlandia,12500
+"['bar', 'restaurant']",6.5,Very Good,12.0,Willsmian,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.4,Excellent,226.0,Hallerson,43000
+"['bar', 'restaurant']",7.0,Very Good,24.0,Wanderland,12000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,4.0,Machlessvile,18000
+"['bar', 'restaurant', 'pool']",7.8,Very Good,10.0,Stokol,13500
+"['bar', 'restaurant']",4.2,Good,4.0,Wanderland,4500
+"['intrnet', 'restaurant']",8.0,Excellent,7.0,Willsmian,44000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,6.0,Hallerson,32000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.5,Very Good,42.0,Wanderland,18480
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",6.8,Very Good,14.0,Andeman,9750
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",5.2,Good,3.0,Andeman,26875
+"['bar', 'restaurant']",,,,Machlessvile,4000
+"['internet', 'bar', 'restaurant', 'gym']",8.3,Excellent,18.0,Hallerson,20000
+"['internet', 'restaurant', 'pool', 'gym']",9.1,Excellent,3.0,Wanderland,25000
+[],,,,Wanderland,2500
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Hallerson,20000
+['restaurant'],,,,Wanderland,13160
+['intrnet'],7.7,Very Good,18.0,Hallerson,20000
+['bar'],6.3,Very Good,3.0,Andeman,7000
+['bar'],,,,Willsmian,25000
+"['bar', 'restaurant']",6.4,Very Good,34.0,Ubisville,5500
+"['intrnet', 'bar', 'restaurant']",8.3,Excellent,18.0,Hallerson,30000
+"['bar', 'restaurant']",6.5,Very Good,7.0,Stokol,4500
+"['internet', 'bar', 'restaurant']",8.1,Excellent,32.0,Andeman,92000
+['internet'],7.7,Very Good,10.0,Machlessvile,5000
+['restaurant'],7.1,Very Good,68.0,Willsmian,20000
+"['intrnet', 'bar', 'restaurant']",10.0,Excellent,1.0,Willsmian,30000
+"['bar', 'restaurant', 'swimmingpools', 'gym']",7.0,Very Good,17.0,Willsmian,16200
+"['bar', 'restaurant']",7.4,Very Good,4.0,Wanderland,15000
+"['internet', 'bar']",6.7,Very Good,10.0,Andeman,35000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Hallerson,10000
+['bar'],,,,Machlessvile,2500
+"['intrnet', 'bar', 'restaurant']",5.8,Good,8.0,Machlessvile,6000
+"['bar', 'restaurant']",8.0,Excellent,7.0,Hallerson,10000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,23.0,Hallerson,17000
+"['bar', 'restaurant']",3.2,Fair,2.0,Wanderland,11040
+"['internet', 'bar', 'pool']",8.8,Excellent,36.0,Machlessvile,25000
+"['bar', 'restaurant']",5.8,Good,43.0,Andeman,6000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.6,Very Good,13.0,Hallerson,20000
+"['bar', 'restaurant']",6.4,Very Good,3.0,Andeman,4000
+['intrnet'],8.9,Excellent,11.0,Stokol,18000
+['bar'],,,,Andeman,2500
+"['intrnet', 'bar', 'restaurant', 'pool']",9.8,Excellent,4.0,Uberlandia,64800
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",8.7,Excellent,7.0,Andeman,12500
+"['bar', 'restaurant']",9.2,Excellent,2.0,Willsmian,13350
+"['bar', 'restaurant', 'pool', 'gym']",,,,Andeman,30000
+"['bar', 'restaurant']",6.4,Very Good,34.0,Stokol,5500
+"['internet', 'bar', 'restaurant']",8.3,Excellent,21.0,Andeman,12000
+"['internet', 'bar', 'restaurant']",6.8,Very Good,1.0,Ubisville,17000
+"['internet', 'bar', 'pool', 'gym']",6.9,Very Good,12.0,Wanderland,20000
+"['internet', 'bar', 'restaurant']",,,,Stokol,9000
+[],,,,Wanderland,1800
+"['internet', 'bar', 'gym']",7.5,Very Good,16.0,Stokol,17000
+"['bar', 'restaurant', 'swimmingpools']",,,,Andeman,8000
+[],,,,Wanderland,4000
+"['internet', 'bar', 'restaurant', 'pool']",7.8,Very Good,24.0,Hallerson,52875
+"['bar', 'restaurant']",9.6,Excellent,1.0,Andeman,8000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",6.9,Very Good,7.0,Hallerson,10000
+"['internet', 'bar', 'restaurant', 'swimmingpools', 'gym']",7.8,Very Good,25.0,Uberlandia,15000
+[],,,,Machlessvile,17250
+"['bar', 'pool', 'gym']",9.5,Excellent,4.0,Wanderland,14997
+"['bar', 'restaurant']",8.0,Excellent,7.0,Stokol,10000
+"['bar', 'restaurant', 'pool', 'gym']",6.0,Very Good,9.0,Hallerson,35000
+"['internet', 'restaurant']",,,,Hallerson,50000
+"['internet', 'bar', 'restaurant', 'swimmingpools']",8.7,Excellent,17.0,Wanderland,60000
+"['bar', 'restaurant']",4.2,Good,4.0,Hallerson,4500
+"['bar', 'restaurant']",,,,Stokol,1700
+[],,,,Stokol,2500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.7,Very Good,14.0,Machlessvile,18000
+"['internet', 'restaurant', 'pool']",5.0,Good,2.0,Machlessvile,15000
+"['bar', 'restaurant']",6.4,Very Good,5.0,Andeman,6000
+"['bar', 'restaurant', 'swimmingpools']",8.0,Excellent,9.0,Hallerson,25000
+[],,,,Hallerson,30000
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",7.2,Very Good,4.0,Uberlandia,69569
+"['internet', 'bar', 'restaurant']",7.2,Very Good,2.0,Willsmian,56000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,14.0,Uberlandia,5000
+"['internet', 'restaurant', 'gym']",7.4,Very Good,10.0,Wanderland,5175
+"['intrnet', 'bar', 'restaurant']",7.7,Very Good,125.0,Andeman,9800
+[],7.0,Very Good,1.0,Hallerson,3700
+"['internet', 'bar', 'restaurant']",8.0,Excellent,1.0,Ubisville,25000
+"['bar', 'restaurant']",9.4,Excellent,3.0,Hallerson,20000
+"['bar', 'swimmingpools', 'gym']",8.6,Excellent,4.0,Stokol,12800
+"['bar', 'restaurant']",9.6,Excellent,1.0,Stokol,8000
+"['bar', 'restaurant']",8.0,Excellent,2.0,Wanderland,5000
+[],,,,Hallerson,53475
+[],,,,Willsmian,8000
+"['intrnet', 'bar', 'restaurant']",,,,Uberlandia,15000
+"['bar', 'restaurant', 'gym']",5.3,Good,4.0,Andeman,11500
+"['bar', 'restaurant']",8.8,Excellent,1.0,Wanderland,8000
+"['intrnet', 'bar', 'swimmingpools']",7.0,Very Good,6.0,Uberlandia,45000
+[],,,,Wanderland,3040
+"['internet', 'bar', 'restaurant', 'pool', 'gym']",8.9,Excellent,19.0,Andeman,35000
+"['intrnet', 'bar', 'restaurant']",8.1,Excellent,31.0,Andeman,14000
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.4,Very Good,145.0,Hallerson,17000
+"['internet', 'bar', 'restaurant']",7.0,Very Good,14.0,Willsmian,5000
+"['intrnet', 'bar', 'restaurant', 'pool', 'gym']",7.6,Very Good,6.0,Wanderland,30000
+"['internet', 'bar', 'restaurant']",,,,Uberlandia,20000
+['bar'],4.3,Good,3.0,Wanderland,2250
+"['bar', 'restaurant']",5.6,Good,1.0,Wanderland,4500
+[],,,,Stokol,12500
+"['intrnet', 'bar', 'restaurant', 'swimmingpools']",7.9,Very Good,24.0,Hallerson,50000
+"['bar', 'restaurant']",7.3,Very Good,7.0,Wanderland,13500
+"['restaurant', 'pool']",8.8,Excellent,1.0,Stokol,8000
+"['restaurant', 'pool']",8.0,Excellent,34.0,Machlessvile,23000
+"['bar', 'restaurant', 'pool', 'gym']",5.7,Good,37.0,Uberlandia,30000
+"['internet', 'bar', 'restaurant', 'gym']",,,,Andeman,10000
+"['internet', 'restaurant']",,,,Machlessvile,14904
